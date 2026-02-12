@@ -222,3 +222,5 @@ Contributions welcome! Please read `CONTRIBUTING.md` first.
   <b>May your rolls be natural 20s! 🎲</b><br>
   <b>愿你的骰子总是自然20！🎲</b>
 </p>
+
+以下是人在写：我是真的什么也不懂就开始做的，测了三天就拿出来的依托答辩，目前模组只有矿坑，但其实里面应该塞了整个5etools的数据，说不定能把其他模组刷出来。请各位老师帮测，有什么问题可以qq联系：286106647
