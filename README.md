@@ -207,7 +207,6 @@ Contributions welcome! Please read `CONTRIBUTING.md` first.
 
 ## 🙏 Acknowledgments | 致谢
 
-- **Wizards of the Coast** - D&D 5e rules and modules
 - **OpenClaw** - AI tabletop platform
 - **5etools** - Open 5e SRD data
 - **All D&D players** - For the love of the game
