@@ -1,0 +1,28 @@
+{
+  "rulebooks": {
+    "phb": true,
+    "mm": true,
+    "dmg": false
+  },
+  "active_module": null,
+  "character_format": "json",
+  "game_settings": {
+    "strict_rules": true,
+    "show_calculations": true,
+    "auto_save": true,
+    "death_save_required": true
+  },
+  "campaign_progress": {
+    "current_chapter": null,
+    "current_section": null,
+    "last_saved": null,
+    "party_level": 1,
+    "completed_sections": [],
+    "discovered_locations": [],
+    "met_npcs": [],
+    "active_quests": [],
+    "completed_quests": [],
+    "session_date": null
+  },
+  "characters": []
+}

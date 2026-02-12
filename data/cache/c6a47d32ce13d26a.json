@@ -1,0 +1,15 @@
+{
+  "name_en": "Fireball",
+  "name_cn": "",
+  "level": 3,
+  "school_en": "V",
+  "school_cn": "塑能",
+  "cast_time": "1 action",
+  "range": "150 feet",
+  "components": "言语(V)，姿势(S)，材料(M): a ball of bat guano and sulfur",
+  "duration": "立即",
+  "ritual": false,
+  "description": "A bright streak flashes from you to a point you choose within range and then blossoms with a low roar into a fiery explosion. Each creature in a 20-foot-radius Sphere [Area of Effect] centered on that point makes a Dexterity saving throw, taking 8d6 Fire damage on a failed save or half as much damage on a successful one.\nFlammable objects in the area that aren't being worn or carried start burning.",
+  "higher_level": "**Using a Higher-Level Spell Slot**：The damage increases by 8d6 for each spell slot level above 3.",
+  "source": "XPHB"
+}

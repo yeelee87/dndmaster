@@ -1,0 +1,21 @@
+{
+  "name_en": "Wolf",
+  "name_cn": "Wolf",
+  "size": "中型",
+  "type": "野兽",
+  "ac": 13,
+  "hp": "11 (2d8 + 2)",
+  "speed": 40,
+  "abilities": {
+    "str": 12,
+    "dex": 15,
+    "con": 12,
+    "int": 3,
+    "wis": 12,
+    "cha": 6
+  },
+  "cr": "1/4",
+  "actions": "mw 4 to hit, reach 5 ft., one target. 命中：7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a 11 Strength saving throw or be knocked prone.",
+  "traits": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.\nThe wolf has advantage on an attack roll against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+  "source": "MM"
+}

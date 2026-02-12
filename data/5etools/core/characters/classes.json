@@ -1,0 +1,500 @@
+[
+  {
+    "name": "Artificer",
+    "source": "TCE",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "con",
+      "int"
+    ],
+    "spellcasting": "int",
+    "entries": ""
+  },
+  {
+    "name": "Artificer",
+    "source": "EFA",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "con",
+      "int"
+    ],
+    "spellcasting": "int",
+    "entries": ""
+  },
+  {
+    "name": "Barbarian",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 12
+    },
+    "proficiency": [
+      "str",
+      "con"
+    ],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Barbarian",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 12
+    },
+    "proficiency": [
+      "str",
+      "con"
+    ],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Bard",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "dex",
+      "cha"
+    ],
+    "spellcasting": "cha",
+    "entries": ""
+  },
+  {
+    "name": "Bard",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "dex",
+      "cha"
+    ],
+    "spellcasting": "cha",
+    "entries": ""
+  },
+  {
+    "name": "Cleric",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "wis",
+      "cha"
+    ],
+    "spellcasting": "wis",
+    "entries": ""
+  },
+  {
+    "name": "Cleric",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "wis",
+      "cha"
+    ],
+    "spellcasting": "wis",
+    "entries": ""
+  },
+  {
+    "name": "Druid",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "int",
+      "wis"
+    ],
+    "spellcasting": "wis",
+    "entries": ""
+  },
+  {
+    "name": "Druid",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "int",
+      "wis"
+    ],
+    "spellcasting": "wis",
+    "entries": ""
+  },
+  {
+    "name": "Fighter",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 10
+    },
+    "proficiency": [
+      "str",
+      "con"
+    ],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Fighter",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 10
+    },
+    "proficiency": [
+      "str",
+      "con"
+    ],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Monk",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "str",
+      "dex"
+    ],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Monk",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "str",
+      "dex"
+    ],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Mystic",
+    "source": "UATheMysticClass",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "int",
+      "wis"
+    ],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Paladin",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 10
+    },
+    "proficiency": [
+      "wis",
+      "cha"
+    ],
+    "spellcasting": "cha",
+    "entries": ""
+  },
+  {
+    "name": "Paladin",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 10
+    },
+    "proficiency": [
+      "wis",
+      "cha"
+    ],
+    "spellcasting": "cha",
+    "entries": ""
+  },
+  {
+    "name": "Ranger",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 10
+    },
+    "proficiency": [
+      "str",
+      "dex"
+    ],
+    "spellcasting": "wis",
+    "entries": ""
+  },
+  {
+    "name": "Ranger",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 10
+    },
+    "proficiency": [
+      "str",
+      "dex"
+    ],
+    "spellcasting": "wis",
+    "entries": ""
+  },
+  {
+    "name": "Rogue",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "dex",
+      "int"
+    ],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Rogue",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "dex",
+      "int"
+    ],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Expert Sidekick",
+    "source": "TCE",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Spellcaster Sidekick",
+    "source": "TCE",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Warrior Sidekick",
+    "source": "TCE",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Sorcerer",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 6
+    },
+    "proficiency": [
+      "con",
+      "cha"
+    ],
+    "spellcasting": "cha",
+    "entries": ""
+  },
+  {
+    "name": "Sorcerer",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 6
+    },
+    "proficiency": [
+      "con",
+      "cha"
+    ],
+    "spellcasting": "cha",
+    "entries": ""
+  },
+  {
+    "name": "Warlock",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "wis",
+      "cha"
+    ],
+    "spellcasting": "cha",
+    "entries": ""
+  },
+  {
+    "name": "Warlock",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 8
+    },
+    "proficiency": [
+      "wis",
+      "cha"
+    ],
+    "spellcasting": "cha",
+    "entries": ""
+  },
+  {
+    "name": "Wizard",
+    "source": "PHB",
+    "hd": {
+      "number": 1,
+      "faces": 6
+    },
+    "proficiency": [
+      "int",
+      "wis"
+    ],
+    "spellcasting": "int",
+    "entries": ""
+  },
+  {
+    "name": "Wizard",
+    "source": "XPHB",
+    "hd": {
+      "number": 1,
+      "faces": 6
+    },
+    "proficiency": [
+      "int",
+      "wis"
+    ],
+    "spellcasting": "int",
+    "entries": ""
+  },
+  {
+    "name": "Sorcerer",
+    "source": "PHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Artificer",
+    "source": "TCE",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Barbarian",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Bard",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Cleric",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Druid",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Fighter",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Monk",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Paladin",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Ranger",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Rogue",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  },
+  {
+    "name": "Sorcerer",
+    "source": "XPHB",
+    "hd": {},
+    "proficiency": [],
+    "spellcasting": "",
+    "entries": ""
+  }
+]

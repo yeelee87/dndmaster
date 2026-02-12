@@ -1,0 +1,74 @@
+{
+  "ash zombie": {
+    "name_en": "Ash Zombie",
+    "name_cn": "Ash Zombie",
+    "cr": "1/4",
+    "type": "\u4ea1\u7075",
+    "size": "\u4e2d\u578b",
+    "source": "LMoP"
+  },
+  "evil mage": {
+    "name_en": "Evil Mage",
+    "name_cn": "\u90aa\u6076\u6cd5\u5e08",
+    "cr": "1",
+    "type": "\u7c7b\u4eba\u751f\u7269",
+    "size": "\u4e2d\u578b",
+    "source": "LMoP"
+  },
+  "gundren rockseeker": {
+    "name_en": "Gundren Rockseeker",
+    "name_cn": "\u5188\u5fb7\u4f26\u00b7\u5bfb\u77f3\u8005",
+    "cr": "0",
+    "type": "",
+    "size": "\u4e2d\u578b",
+    "source": "LMoP"
+  },
+  "mormesk the wraith": {
+    "name_en": "Mormesk the Wraith",
+    "name_cn": "\u5e7d\u7075\u83ab\u6885\u65af\u514b",
+    "cr": "3",
+    "type": "\u4ea1\u7075",
+    "size": "\u4e2d\u578b",
+    "source": "LMoP"
+  },
+  "nezznar the black spider": {
+    "name_en": "Nezznar the Black Spider",
+    "name_cn": "\u9ed1\u8718\u86db\u6d85\u5179\u7eb3\u5c14",
+    "cr": "2",
+    "type": "\u7c7b\u4eba\u751f\u7269",
+    "size": "\u4e2d\u578b",
+    "source": "LMoP"
+  },
+  "nundro rockseeker": {
+    "name_en": "Nundro Rockseeker",
+    "name_cn": "Nundro Rockseeker",
+    "cr": "0",
+    "type": "",
+    "size": "\u4e2d\u578b",
+    "source": "LMoP"
+  },
+  "redbrand ruffian": {
+    "name_en": "Redbrand Ruffian",
+    "name_cn": "Redbrand Ruffian",
+    "cr": "1/2",
+    "type": "\u7c7b\u4eba\u751f\u7269",
+    "size": "\u4e2d\u578b",
+    "source": "LMoP"
+  },
+  "sildar hallwinter": {
+    "name_en": "Sildar Hallwinter",
+    "name_cn": "\u897f\u5c14\u8fbe\u00b7\u54c8\u5c14\u6e29\u7279",
+    "cr": "1",
+    "type": "\u7c7b\u4eba\u751f\u7269",
+    "size": "\u4e2d\u578b",
+    "source": "LMoP"
+  },
+  "venomfang": {
+    "name_en": "Venomfang",
+    "name_cn": "\u6bd2\u7259",
+    "cr": "0",
+    "type": "",
+    "size": "\u4e2d\u578b",
+    "source": "LMoP"
+  }
+}

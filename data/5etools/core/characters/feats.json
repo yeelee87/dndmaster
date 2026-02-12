@@ -1,0 +1,716 @@
+[
+  {
+    "name_en": "Ability Score Improvement",
+    "prerequisite": "",
+    "description": "Increase one ability score of your choice by 2, or increase two ability scores of your choice by 1. This feat can't increase an ability score above 20.\n**Repeatable**：You can take this feat more than once.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Actor",
+    "prerequisite": "",
+    "description": "Skilled at mimicry and dramatics, you gain the following benefits:\n• You have advantage on Charisma (Deception) and Charisma (Performance) checks when trying to pass yourself off as a different person.\n• You can mimic the speech of another person or the sounds made by other creatures. You must have heard the person speaking, or heard the creature make the sound, for at least 1 minute. A successful Wisdom (Insight) check contested by your Charisma (Deception) check allows a listener to determine that the effect is faked.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Actor",
+    "prerequisite": "cha 13",
+    "description": "You gain the following benefits.\n**Impersonation**：While you're disguised as a real or fictional person, you have Advantage on Charisma (Deception or Performance) checks to convince others that you are that person.\n**Mimicry**：You can mimic the sounds of other creatures, including speech. A creature that hears the mimicry must succeed on a Wisdom (Insight) check to determine the effect is faked (8 plus your Charisma modifier and Proficiency).",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Alert",
+    "prerequisite": "",
+    "description": "Always on the lookout for danger, you gain the following benefits:\n• You gain a +5 bonus to initiative.\n• You can't be surprised while you are conscious.\n• Other creatures don't gain advantage on attack rolls against you as a result of being unseen by you.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Alert",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Initiative Proficiency**：When you roll Initiative, you can add your Proficiency to the roll.\n**Initiative Swap**：Immediately after you roll Initiative, you can swap your Initiative with the Initiative of one willing ally in the same combat. You can't make this swap if you or the ally has the Incapacitated condition.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Archery",
+    "prerequisite": "",
+    "description": "You gain a +2 bonus to attack rolls you make with Ranged weapons.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Athlete",
+    "prerequisite": "",
+    "description": "You have undergone extensive physical training to gain the following benefits:\n• When you are prone, standing up uses only 5 feet of your movement.\n• Climbing doesn't cost you extra movement.\n• You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Athlete",
+    "prerequisite": "str 13, dex 13",
+    "description": "You gain the following benefits.\n**Climb Speed**：You gain a Climb Speed equal to your Speed.\n**Hop Up**：When you have the Prone condition, you can right yourself with only 5 feet of movement.\n**Jumping**：You can make a running Long or High Jump after moving only 5 feet.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Blessed Warrior",
+    "prerequisite": "",
+    "description": "You learn two Cleric cantrips of your choice. Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Blind Fighting",
+    "prerequisite": "",
+    "description": "You have Blindsight with a range of 10 feet.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Combat Prowess",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Peerless Aim**：When you miss with an attack roll, you can hit instead. Once you use this benefit, you can't use it again until the start of your next turn.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Dimensional Travel",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Blink Steps**：Immediately after you take the Attack action or the Magic action, you can teleport up to 30 feet to an unoccupied space you can see.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Energy Resistance",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Energy Resistances**：You gain Resistance to two of the following damage types of your choice: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. Whenever you finish a Long Rest, you can change your choices.\n**Energy Redirection**：When you take damage of one of the types chosen for the Energy Resistances benefit, you can take a Reaction to direct damage of the same type toward another creature you can see within 60 feet of yourself that isn't behind Cover. If you do so, that creature must succeed on a Dexterity saving throw (8 plus your Constitution modifier and Proficiency) or take damage equal to 2d12 plus your Constitution modifier.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Fate",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Improve Fate**：When you or another creature within 60 feet of you succeeds on or fails a D20 Test, you can roll 2d4 and apply the total rolled as a bonus or penalty to the d20 roll. Once you use this benefit, you can't use it again until you roll Initiative or finish a Short Rest or Long Rest.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Fortitude",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Fortified Health**：Your Hit Points maximum increases by 40. In addition, whenever you regain Hit Points, you can regain additional Hit Points equal to your Constitution modifier. Once you've regained these additional Hit Points, you can't do so again until the start of your next turn.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Irresistible Offense",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Overcome Defenses**：The Bludgeoning, Piercing, and Slashing damage you deal always ignores Resistance.\n**Overwhelming Strike**：When you roll a 20 on the d20 for an attack roll, you can deal extra damage to the target equal to the ability score increased by this feat. The extra damage's type is the same as the attack's type.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Recovery",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Last Stand**：When you would be reduced to 0 Hit Points, you can drop to 1 Hit Points instead and regain a number of Hit Points equal to half your Hit Points maximum. Once you use this benefit, you can't use it again until you finish a Long Rest.\n**Recover Vitality**：You have a pool of ten d10s. As a Bonus Action, you can expend dice from the pool, roll those dice, and regain a number of Hit Points equal to the roll's total. You regain all the expended dice when you finish a Long Rest.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Skill",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**All-Around Adept**：You gain proficiency in all skills.\n**Expertise**：Choose one skill in which you lack Expertise. You gain Expertise in that skill.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Speed",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Escape Artist**：As a Bonus Action, you can take the Disengage action, which also ends the Grappled condition on you.\n**Quickness**：Your Speed increases by 30 feet.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Spell Recall",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Free Casting**：Whenever you cast a spell with a level 1-4 spell slot, roll 1d4. If the number you roll is the same as the slot's level, the slot isn't expended.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of the Night Spirit",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Merge with Shadows**：While within Dim Light or Darkness, you can give yourself the Invisible condition as a Bonus Action. The condition ends on you immediately after you take an action, a Bonus Action, or a Reaction.\n**Shadowy Form**：While within Dim Light or Darkness, you have Resistance to all damage except Psychic and Radiant.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Boon of Truesight",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Truesight**：You have Truesight with a range of 60 feet.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Charger",
+    "prerequisite": "",
+    "description": "When you use your action to Dash, you can use a bonus action to make one melee weapon attack or to shove a creature.\nIf you move at least 10 feet in a straight line immediately before taking this bonus action, you either gain a +5 bonus to the attack's damage roll (if you chose to make a melee attack and hit) or push the target up to 10 feet away from you (if you chose to shove and you succeed).",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Charger",
+    "prerequisite": "str 13, dex 13",
+    "description": "You gain the following benefits.\n**Improved Dash**：When you take the Dash action, your Speed increases by 10 feet for that action.\n**Charge Attack**：If you move at least 10 feet in a straight line toward a target immediately before hitting it with a melee attack roll as part of the Attack action, choose one of the following effects: gain a 1d8 bonus to the attack's damage roll, or push the target up to 10 feet away if it is no more than one size larger than you. You can use this benefit only once on each of your turns.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Chef",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Cook's Utensils**：You gain proficiency with Cook's Utensils if you don't already have it.\n**Replenishing Meal**：As part of a Short Rest, you can cook special food if you have ingredients and Cook's Utensils on hand. You can prepare enough of this food for a number of creatures equal to 4 plus your Proficiency. At the end of the Short Rest, any creature who eats the food and spends one or more Hit Dice to regain Hit Points regains an extra 1d8 Hit Points.\n**Bolstering Treats**：With 1 hour of work or when you finish a Long Rest, you can cook a number of treats equal to your Proficiency if you have ingredients and Cook's Utensils on hand. These special treats last 8 hours after being made. A creature can use a Bonus Action to eat one of those treats to gain a number of Temporary Hit Points equal to your Proficiency.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Crafter",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Tool Proficiency**：You gain proficiency with three different Artisan's Tools of your choice from the Fast Crafting table.\n**Discount**：Whenever you buy a nonmagical item, you receive a 20 percent discount on it.\n**Fast Crafting**：When you finish a Long Rest, you can craft one piece of gear from the Fast Crafting table, provided you have the Artisan's Tools associated with that item and have proficiency with those tools. The item lasts until you finish another Long Rest, at which point the item falls apart.\n[表格: Fast Crafting]",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Crossbow Expert",
+    "prerequisite": "",
+    "description": "Thanks to extensive practice with the crossbow, you gain the following benefits:\n• You ignore the loading quality of crossbows with which you are proficient.\n• Being within 5 feet of a hostile creature doesn't impose disadvantage on your ranged attack rolls.\n• When you use the Attack action and attack with a one-handed weapon, you can use a bonus action to attack with a hand crossbow you are holding.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Crossbow Expert",
+    "prerequisite": "dex 13",
+    "description": "You gain the following benefits.\n**Ignore Loading**：You ignore the LD property of the Hand Crossbow, Heavy Crossbow, and Light Crossbow (all called crossbows elsewhere in this feat). If you're holding one of them, you can load a piece of ammunition into it even if you lack a free hand.\n**Firing in Melee**：Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with crossbows.\n**Dual Wielding**：When you make the extra attack of the L property, you can add your ability modifier to the damage of the extra attack if that attack is with a crossbow that has the L property and you aren't already adding that modifier to the damage.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Crusher",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Push**：Once per turn, when you hit a creature with an attack that deals Bludgeoning damage, you can move it 5 feet to an unoccupied space if the target is no more than one size larger than you.\n**Enhanced Critical**：When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Defense",
+    "prerequisite": "",
+    "description": "While you're wearing Light, Medium, or Heavy armor, you gain a +1 bonus to Armor Class.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Defensive Duelist",
+    "prerequisite": "dex 13",
+    "description": "When you are wielding a finesse weapon with which you are proficient and another creature hits you with a melee attack, you can use your reaction to add your proficiency bonus to your AC for that attack, potentially causing the attack to miss you.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Defensive Duelist",
+    "prerequisite": "dex 13",
+    "description": "You gain the following benefits.\n**Parry**：If you're holding a Finesse weapon and another creature hits you with a melee attack, you can take a Reaction to add your Proficiency to your Armor Class, potentially causing the attack to miss you. You gain this bonus to your AC against melee attacks until the start of your next turn.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Druidic Warrior",
+    "prerequisite": "",
+    "description": "You learn two Druid cantrips of your choice. Guidance and Starry Wisp are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Dual Wielder",
+    "prerequisite": "",
+    "description": "You master fighting with two weapons, gaining the following benefits:\n• You gain a +1 bonus to AC while you are wielding a separate melee weapon in each hand.\n• You can use two-weapon fighting even when the one-handed melee weapons you are wielding aren't light.\n• You can draw or stow two one-handed weapons when you would normally be able to draw or stow only one.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Dual Wielder",
+    "prerequisite": "str 13, dex 13",
+    "description": "You gain the following benefits.\n**Enhanced Dual Wielding**：When you take the Attack action on your turn and attack with a weapon that has the L property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the 2H property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.\n**Quick Draw**：You can draw or stow two weapons that lack the 2H property when you would normally be able to draw or stow only one.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Dueling",
+    "prerequisite": "",
+    "description": "When you're holding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Dungeon Delver",
+    "prerequisite": "",
+    "description": "Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:\n• You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to detect the presence of secret doors.\n• You have advantage on saving throws made to avoid or resist traps.\n• You have resistance to the damage dealt by traps.\n• Traveling at a fast pace doesn't impose the normal -5 penalty on your passive Wisdom (Perception) score.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Durable",
+    "prerequisite": "",
+    "description": "Hardy and resilient, you gain the following benefits:\n• When you roll a Hit Die to regain hit points, the minimum number of hit points you regain from the roll equals twice your Constitution modifier (minimum of 2).",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Durable",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Defy Death**：You have Advantage on Death Saving Throw.\n**Speedy Recovery**：As a Bonus Action, you can expend one of your Hit Point Dice, roll the die, and regain a number of Hit Points equal to the roll.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Elemental Adept",
+    "prerequisite": "能够施法",
+    "description": "When you gain this feat, choose one of the following damage types: acid, cold, fire, lightning, or thunder.\nSpells you cast ignore resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.\nYou can select this feat multiple times. Each time you do so, you must choose a different damage type.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Elemental Adept",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Energy Mastery**：Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. In addition, when you roll damage for a spell you cast that deals damage of that type, you can treat any 1 on a damage die as a 2.\n**Repeatable**：You can take this feat more than once, but you must choose a different damage type each time for Energy Mastery.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Fey-Touched",
+    "prerequisite": "",
+    "description": "Your exposure to the Feywild's magic grants you the following benefits.\n**Fey Magic**：Choose one level 1 spell from the Divination or Enchantment school of magic. You always have that spell and the Misty Step spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Grappler",
+    "prerequisite": "str 13",
+    "description": "You've developed the skills necessary to hold your own in close-quarters grappling. You gain the following benefits:\n• You have advantage on attack rolls against a creature you are grappling.\n• You can use your action to try to pin a creature grappled by you. To do so, make another grapple check. If you succeed, you and the creature are both restrained until the grapple ends.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Grappler",
+    "prerequisite": "str 13, dex 13",
+    "description": "You gain the following benefits.\n**Punch and Grab**：When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.\n**Attack Advantage**：You have Advantage on attack rolls against a creature Grappled by you.\n**Fast Wrestler**：You don't have to spend extra movement to move a creature Grappled by you if the creature is your size or smaller.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Great Weapon Fighting",
+    "prerequisite": "",
+    "description": "When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the 2h or V property to gain this benefit.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Great Weapon Master",
+    "prerequisite": "",
+    "description": "You've learned to put the weight of a weapon to your advantage, letting its momentum empower your strikes. You gain the following benefits:\n• On your turn, when you score a critical hit with a melee weapon or reduce a creature to 0 hit points with one, you can make one melee weapon attack as a bonus action.\n• Before you make a melee attack with a heavy weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Great Weapon Master",
+    "prerequisite": "str 13",
+    "description": "You gain the following benefits.\n**Heavy Weapon Mastery**：When you hit a creature with a weapon that has the H property as part of the Attack action on your turn, you can cause the weapon to deal extra damage to the target. The extra damage equals your Proficiency.\n**Hew**：Immediately after you score a Critical Hit with a Melee weapon or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Healer",
+    "prerequisite": "",
+    "description": "You are an able physician, allowing you to mend wounds quickly and get your allies back in the fight. You gain the following benefits:\n• When you use a healer's kit to stabilize a dying creature, that creature also regains 1 hit point.\n• As an action, you can spend one use of a healer's kit to tend to a creature and restore 1d6 + 4 hit points to it, plus additional hit points equal to the creature's maximum number of Hit Dice. The creature can't regain hit points from this feat again until it finishes a short or long rest.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Healer",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Battle Medic**：If you have a Healer's Kit, you can expend one use of it and tend to a creature within 5 feet of yourself as a Utilize action. That creature can expend one of its Hit Point Dice, and you then roll that die. The creature regains a number of Hit Points equal to the roll plus your Proficiency.\n**Healing Rerolls**：Whenever you roll a die to determine the number of Hit Points you restore with a spell or with this feat's Battle Medic benefit, you can reroll the die if it rolls a 1, and you must use the new roll.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Heavily Armored",
+    "prerequisite": "",
+    "description": "You have trained to master the use of heavy armor, gaining the following benefits:\n• You gain proficiency with heavy armor.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Heavily Armored",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Armor Training**：You gain training with Heavy armor.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Heavy Armor Master",
+    "prerequisite": "",
+    "description": "You can use your armor to deflect strikes that would kill others. You gain the following benefits:\n• While you are wearing heavy armor, bludgeoning, piercing, and slashing damage that you take from nonmagical attacks is reduced by 3.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Heavy Armor Master",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Damage Reduction**：When you're hit by an attack while you're wearing Heavy armor, any Bludgeoning, Piercing, and Slashing damage dealt to you by that attack is reduced by an amount equal to your Proficiency.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Inspiring Leader",
+    "prerequisite": "cha 13",
+    "description": "You can spend 10 minutes inspiring your companions, shoring up their resolve to fight. When you do so, choose up to six friendly creatures (which can include yourself) within 30 feet of you who can see or hear you and who can understand you. Each creature can gain temporary hit points equal to your level + your Charisma modifier. A creature can't gain temporary hit points from this feat again until it has finished a short or long rest.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Inspiring Leader",
+    "prerequisite": "wis 13, cha 13",
+    "description": "You gain the following benefits.\n**Bolstering Performance**：When you finish a Short Rest or Long Rest, you can give an inspiring performance: a speech, song, or dance. When you do so, choose up to six allies (which can include yourself) within 30 feet of yourself who witness the performance. The chosen creatures each gain Temporary Hit Points equal to your character level plus the modifier of the ability you increased with this feat.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Interception",
+    "prerequisite": "",
+    "description": "When a creature you can see hits another creature within 5 feet of you with an attack roll, you can take a Reaction to reduce the damage dealt to the target by 1d10 plus your Proficiency. You must be holding a Shield or a Simple or Martial weapon to use this Reaction.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Keen Mind",
+    "prerequisite": "",
+    "description": "You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:\n• You always know which way is north.\n• You always know the number of hours left before the next sunrise or sunset.\n• You can accurately recall anything you have seen or heard within the past month.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Keen Mind",
+    "prerequisite": "int 13",
+    "description": "You gain the following benefits.\n**Lore Knowledge**：Choose one of the following skills: Arcana, History, Investigation, Nature, or Religion. If you lack proficiency in the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.\n**Quick Study**：You can take the Study action as a Bonus Action.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Lightly Armored",
+    "prerequisite": "",
+    "description": "You have trained to master the use of light armor, gaining the following benefits:\n• You gain proficiency with light armor.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Lightly Armored",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Armor Training**：You gain training with Light armor and Shields.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Linguist",
+    "prerequisite": "",
+    "description": "You have studied languages and codes, gaining the following benefits:\n• You learn three languages of your choice.\n• You can ably create written ciphers. Others can't decipher a code you create unless you teach them, they succeed on an Intelligence check (DC equal to your Intelligence score + your proficiency bonus), or they use magic to decipher it.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Lucky",
+    "prerequisite": "",
+    "description": "You have inexplicable luck that seems to kick in at just the right moment.\nYou have 3 luck points. Whenever you make an attack roll, an ability check, or a saving throw, you can spend one luck point to roll an additional d20. You can choose to spend one of your luck points after you roll the die, but before the outcome is determined. You choose which of the d20s is used for the attack roll, ability check, or saving throw.\nYou can also spend one luck point when an attack roll is made against you. Roll a d20, and then choose whether the attack uses the attacker's roll or yours. If more than one creature spends a luck point to influence the outcome of a roll, the points cancel each other out; no additional dice are rolled.\nYou regain your expended luck points when you finish a long rest.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Lucky",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Luck Points**：You have a number of Luck Points equal to your Proficiency and can spend the points on the benefits below. You regain your expended Luck Points when you finish a Long Rest.\n**Advantage**：When you roll a d20 for a D20 Test, you can spend 1 Luck Point to give yourself Advantage on the roll.\n**Disadvantage**：When a creature rolls a d20 for an attack roll against you, you can spend 1 Luck Point to impose Disadvantage on that roll.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Mage Slayer",
+    "prerequisite": "",
+    "description": "You have practiced techniques useful in melee combat against spellcasters, gaining the following benefits:\n• When a creature within 5 feet of you casts a spell, you can use your reaction to make a melee weapon attack against that creature.\n• When you damage a creature that is concentration on a spell, that creature has disadvantage on the saving throw it makes to maintain its concentration.\n• You have advantage on saving throws against spells cast by creatures within 5 feet of you.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Mage Slayer",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Concentration Breaker**：When you damage a creature that is Concentration, it has Disadvantage on the saving throw it makes to maintain Concentration.\n**Guarded Mind**：If you fail an Intelligence, a Wisdom, or a Charisma saving throw, you can cause yourself to succeed instead. Once you use this benefit, you can't use it again until you finish a Short Rest or Long Rest.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Magic Initiate",
+    "prerequisite": "",
+    "description": "Choose a class: bard, cleric, druid, sorcerer, warlock, or wizard. You learn two cantrips of your choice from that class's spell list.\nIn addition, choose one 1st-level spell to learn from that same list. Using this feat, you can cast the spell once at its lowest level, and you must finish a long rest before you can cast it in this way again.\nYour spellcasting ability for these spells depends on the class you chose: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Magic Initiate",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Two Cantrips**：You learn two cantrips of your choice from the Cleric, Druid, or Wizard spell list. Intelligence, Wisdom, or Charisma is your spellcasting ability for this feat's spells (choose when you select this feat).\n**Level 1 Spell**：Choose a level 1 spell from the same list you selected for this feat's cantrips. You always have that spell prepared. You can cast it once without a spell slot, and you regain the ability to cast it in that way when you finish a Long Rest. You can also cast the spell using any spell slots you have.\n**Spell Change**：Whenever you gain a new level, you can replace one of the spells you chose for this feat with a different spell of the same level from the chosen spell list.\n**Repeatable**：You can take this feat more than once, but you must choose a different spell list each time.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Martial Adept",
+    "prerequisite": "",
+    "description": "You have martial training that allows you to perform special combat maneuvers. You gain the following benefits:\n• You learn two maneuvers of your choice from among those available to the fighter archetype in the fighter class. If a maneuver you use requires your target to make a saving throw to resist the maneuver's effects, the saving throw DC equals 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice).\n• You gain one superiority die, which is a d6 (this die is added to any superiority dice you have from another source). This die is used to fuel your maneuvers. A superiority die is expended when you use it. You regain your expended superiority dice when you finish a short or long rest.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Martial Weapon Training",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Weapon Proficiency**：You gain proficiency with Martial weapons.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Medium Armor Master",
+    "prerequisite": "",
+    "description": "You have practiced moving in medium armor to gain the following benefits:\n• Wearing medium armor doesn't impose disadvantage on your Dexterity (Stealth) checks.\n• When you wear medium armor, you can add 3, rather than 2, to your AC if you have a Dexterity of 16 or higher.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Medium Armor Master",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Dexterous Wearer**：While you're wearing Medium armor, you can add 3, rather than 2 to your AC if you have a Dexterity score of 16 or higher.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Mobile",
+    "prerequisite": "",
+    "description": "You are exceptionally speedy and agile. You gain the following benefits:\n• Your speed increases by 10 feet.\n• When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.\n• When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Moderately Armored",
+    "prerequisite": "",
+    "description": "You have trained to master the use of medium armor and shields, gaining the following benefits:\n• You gain proficiency with medium armor and shields.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Moderately Armored",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Armor Training**：You gain training with Medium armor.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Mounted Combatant",
+    "prerequisite": "",
+    "description": "You are a dangerous foe to face while mounted. While you are mounted and aren't incapacitated, you gain the following benefits:\n• You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.\n• You can force an attack targeted at your mount to target you instead.\n• If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Mounted Combatant",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Mounted Strike**：While mounted, you have Advantage on attack rolls against any unmounted creature within 5 feet of your mount that is at least one size smaller than the mount.\n**Leap Aside**：If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw and only half damage if it fails. For your mount to gain this benefit, you must be riding it, and neither of you can have the Incapacitated condition.\n**Veer**：While mounted, you can force an attack that hits your mount to hit you instead if you don't have the Incapacitated condition.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Musician",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Instrument Training**：You gain proficiency with three Musical Instruments of your choice.\n**Encouraging Song**：As you finish a Short Rest or Long Rest, you can play a song on a Musical Instrument with which you have proficiency and give Heroic Inspiration to allies who hear the song. The number of allies you can affect in this way equals your Proficiency.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Observant",
+    "prerequisite": "",
+    "description": "Quick to notice details of your environment, you gain the following benefits:\n• If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.\n• You have a +5 bonus to your passive Wisdom (Perception) and passive Intelligence (Investigation) scores.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Observant",
+    "prerequisite": "int 13, wis 13",
+    "description": "You gain the following benefits.\n**Keen Observer**：Choose one of the following skills: Insight, Investigation, or Perception. If you lack proficiency with the chosen skill, you gain proficiency in it, and if you already have proficiency in it, you gain Expertise in it.\n**Quick Search**：You can take the Search action as a Bonus Action.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Piercer",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Puncture**：Once per turn, when you hit a creature with an attack that deals Piercing damage, you can reroll one of the attack's damage dice, and you must use the new roll.\n**Enhanced Critical**：When you score a Critical Hit that deals Piercing damage to a creature, you can roll one additional damage die when determining the extra Piercing damage the target takes.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Poisoner",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Potent Poison**：When you make a damage roll that deals Poison damage, it ignores Resistance to Poison damage.\n**Brew Poison**：You gain proficiency with the Poisoner's Kit. With 1 hour of work using such a kit and expending 50 GP worth of materials, you can create a number of poison doses equal to your Proficiency. As a Bonus Action, you can apply a poison dose to a weapon or piece of ammunition. Once applied, the poison retains its potency for 1 minute or until you deal damage with the poisoned item, whichever is shorter. When a creature takes damage from the poisoned item, that creature must succeed on a Constitution saving throw (8 plus the modifier of the ability increased by this feat and your Proficiency) or take 2d8 Poison damage and have the Poisoned condition until the end of your next turn.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Polearm Master",
+    "prerequisite": "",
+    "description": "You can keep your enemies at bay with reach weapons. You gain the following benefits:\n• When you take the Attack action and attack with only a glaive, halberd, quarterstaff, or spear, you can use a bonus action to make a melee attack with the opposite end of the weapon; this attack uses the same ability modifier as the primary attack. The weapon's damage die for this attack is a d4, and the attack deals bludgeoning damage.\n• While you are wielding a glaive, halberd, pike, quarterstaff, or spear, other creatures provoke an opportunity attack from you when they enter the reach you have with that weapon.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Polearm Master",
+    "prerequisite": "str 13, dex 13",
+    "description": "You gain the following benefits.\n**Pole Strike**：Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the weapon. The weapon deals Bludgeoning damage, and the weapon's damage die for this attack is a d4.\n**Reactive Strike**：While you're holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Protection",
+    "prerequisite": "",
+    "description": "When a creature you can see attacks a target other than you that is within 5 feet of you, you can take a Reaction to interpose your Shield if you're holding one. You impose Disadvantage on the triggering attack roll and all other attack rolls against the target until the start of your next turn if you remain within 5 feet of the target.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Resilient",
+    "prerequisite": "",
+    "description": "Choose one ability score. You gain the following benefits:\n• You gain proficiency in saving throws using the chosen ability.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Resilient",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Saving Throw Proficiency**：You gain saving throw proficiency with the chosen ability.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Ritual Caster",
+    "prerequisite": "int 13, wis 13",
+    "description": "You have learned a number of spells that you can cast as rituals. These spells are written in a ritual book, which you must have in hand while casting one of them.\nWhen you choose this feat, you acquire a ritual book holding two 1st-level spells of your choice. Choose one of the following classes: bard, cleric, druid, sorcerer, warlock, or wizard. You must choose your spells from that class's spell list, and the spells you choose must have the ritual tag. The class you choose also determines your spellcasting ability for these spells: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.\nIf you come across a spell in written form, such as a magical spell scroll or a wizard's spellbook, you might be able to add it to your ritual book. The spell must be on the spell list for the class you chose, the spell's level can be no higher than half your level (rounded up), and it must have the ritual tag. The process of copying the spell into your ritual book takes 2 hours per level of the spell, and costs 50 gp per level. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Ritual Caster",
+    "prerequisite": "int 13, wis 13, cha 13",
+    "description": "You gain the following benefits.\n**Ritual Spells**：Choose a number of level 1 spells equal to your Proficiency that have the Ritual tag. You always have those spells prepared, and you can cast them with any spell slots you have. The spells' spellcasting ability is the ability increased by this feat. Whenever your Proficiency increases thereafter, you can add an additional level 1 spell with the Ritual tag to the spells always prepared with this feature.\n**Quick Ritual**：With this benefit, you can cast a Ritual spell that you have prepared using its regular casting time rather than the extended time for a Ritual. Doing so doesn't require a spell slot. Once you cast the spell in this way, you can't use this benefit again until you finish a Long Rest.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Savage Attacker",
+    "prerequisite": "",
+    "description": "Once per turn when you roll damage for a melee weapon attack, you can reroll the weapon's damage dice and use either total.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Savage Attacker",
+    "prerequisite": "",
+    "description": "You've trained to deal particularly damaging strikes. Once per turn when you hit a target with a weapon, you can roll the weapon's damage dice twice and use either roll against the target.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Sentinel",
+    "prerequisite": "",
+    "description": "You have mastered techniques to take advantage of every drop in any enemy's guard, gaining the following benefits:\n• When you hit a creature with an opportunity attack, the creature's speed becomes 0 for the rest of the turn.\n• Creatures provoke opportunity attacks from you even if they take the Disengage action before leaving your reach.\n• When a creature within 5 feet of you makes an attack against a target other than you (and that target doesn't have this feat), you can use your reaction to make a melee weapon attack against the attacking creature.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Sentinel",
+    "prerequisite": "str 13, dex 13",
+    "description": "You gain the following benefits.\n**Guardian**：Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make an Opportunity Attack against that creature.\n**Halt**：When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the current turn.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Shadow-Touched",
+    "prerequisite": "",
+    "description": "Your exposure to the Shadowfell's magic grants you the following benefits.\n**Shadow Magic**：Choose one level 1 spell from the Illusion or Necromancy school of magic. You always have that spell and the Invisibility spell prepared. You can cast each of these spells without expending a spell slot. Once you cast either spell in this way, you can't cast that spell in this way again until you finish a Long Rest. You can also cast these spells using spell slots you have of the appropriate level. The spells' spellcasting ability is the ability increased by this feat.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Sharpshooter",
+    "prerequisite": "",
+    "description": "You have mastered ranged weapons and can make shots that others find impossible. You gain the following benefits:\n• Attacking at long range doesn't impose disadvantage on your ranged weapon attack rolls.\n• Your ranged weapon attacks ignore Cover and Cover.\n• Before you make an attack with a ranged weapon that you are proficient with, you can choose to take a -5 penalty to the attack roll. If the attack hits, you add +10 to the attack's damage.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Sharpshooter",
+    "prerequisite": "dex 13",
+    "description": "You gain the following benefits.\n**Bypass Cover**：Your ranged attacks with weapons ignore Cover and Cover.\n**Firing in Melee**：Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with Ranged weapons.\n**Long Shots**：Attacking at long range doesn't impose Disadvantage on your attack rolls with Ranged weapons.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Shield Master",
+    "prerequisite": "",
+    "description": "You use shields not just for protection but also for offense. You gain the following benefits while you are wielding a shield:\n• If you take the Attack action on your turn, you can use a bonus action to try to shove a creature within 5 feet of you with your shield.\n• If you aren't incapacitated, you can add your shield's AC bonus to any Dexterity saving throw you make against a spell or other harmful effect that targets only you.\n• If you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can use your reaction to take no damage if you succeed on the saving throw, interposing your shield between yourself and the source of the effect.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Shield Master",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Shield Bash**：If you attack a creature within 5 feet of you as part of the Attack action and hit with a Melee weapon, you can immediately bash the target with your Shield if it's equipped, forcing the target to make a Strength saving throw (8 plus your Strength modifier and Proficiency). On a failed save, you either push the target 5 feet from you or cause it to have the Prone condition (your choice). You can use this benefit only once on each of your turns.\n**Interpose Shield**：If you're subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw and are holding a Shield.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Skill Expert",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Skill Proficiency**：You gain proficiency in one skill of your choice.\n**Expertise**：Choose one skill in which you have proficiency but lack Expertise. You gain Expertise with that skill.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Skilled",
+    "prerequisite": "",
+    "description": "You gain proficiency in any combination of three skills or tools of your choice.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Skilled",
+    "prerequisite": "",
+    "description": "You gain proficiency in any combination of three Skill List; Skills or tools of your choice.\n**Repeatable**：You can take this feat more than once.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Skulker",
+    "prerequisite": "dex 13",
+    "description": "You are expert at slinking through shadows. You gain the following benefits:\n• You can try to hide when you are lightly obscured from the creature from which you are hiding.\n• When you are hidden from a creature and miss it with a ranged weapon attack, making the attack doesn't reveal your position.\n• Dim light doesn't impose disadvantage on your Wisdom (Perception) checks relying on sight.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Skulker",
+    "prerequisite": "dex 13",
+    "description": "You gain the following benefits.\n**Blindsight**：You have Blindsight with a range of 10 feet.\n**Fog of War**：You exploit the distractions of battle, gaining Advantage on any Dexterity (Stealth) check you make as part of the Hide action during combat.\n**Sniper**：If you make an attack roll while hidden and the roll misses, making the attack roll doesn't reveal your location.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Slasher",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Hamstring**：Once per turn when you hit a creature with an attack that deals Slashing damage, you can reduce the Speed of that creature by 10 feet until the start of your next turn.\n**Enhanced Critical**：When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Speedy",
+    "prerequisite": "dex 13, con 13",
+    "description": "You gain the following benefits.\n**Speed Increase**：Your Speed increases by 10 feet.\n**Dash over Difficult Terrain**：When you take the Dash action on your turn, Difficult Terrain doesn't cost you extra movement for the rest of that turn.\n**Agile Movement**：Opportunity Attack have Disadvantage against you.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Spell Sniper",
+    "prerequisite": "能够施法",
+    "description": "You have learned techniques to enhance your attacks with certain kinds of spells, gaining the following benefits:\n• When you cast a spell that requires you to make an attack roll, the spell's range is doubled.\n• Your ranged spell attacks ignore Cover and Cover.\n• You learn one cantrip that requires an attack roll. Choose the cantrip from the bard, cleric, druid, sorcerer, warlock, or wizard spell list. Your spellcasting ability for this cantrip depends on the spell list you chose from: Charisma for bard, sorcerer, or warlock; Wisdom for cleric or druid; or Intelligence for wizard.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Spell Sniper",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Bypass Cover**：Your attack rolls for spells ignore Cover and Cover.\n**Casting in Melee**：Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with spells.\n**Increased Range**：When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Tavern Brawler",
+    "prerequisite": "",
+    "description": "Accustomed to rough-and-tumble fighting using whatever weapons happen to be at hand, you gain the following benefits:\n• You are proficient with improvised weapons.\n• Your unarmed strike uses a d4 for damage.\n• When you hit a creature with an unarmed strike or an improvised weapon on your turn, you can use a bonus action to attempt to grapple the target.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Tavern Brawler",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Enhanced Unarmed Strike**：When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d4 plus your Strength modifier instead of the normal damage of an Unarmed Strike.\n**Damage Rerolls**：Whenever you roll a damage die for your Unarmed Strike, you can reroll the die if it rolls a 1, and you must use the new roll.\n**Improvised Weaponry**：You have proficiency with improvised weapons.\n**Push**：When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Telekinetic",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Minor Telekinesis**：You learn the Mage Hand spell. You can cast it without Verbal or Somatic components, you can make the spectral hand Invisible, and its range and the distance it can be away from you both increase by 30 feet when you cast it. The spell's spellcasting ability is the ability increased by this feat.\n**Telekinetic Shove**：As a Bonus Action, you can telekinetically shove one creature you can see within 30 feet of yourself. When you do so, the target must succeed on a Strength saving throw (8 plus the ability modifier of the score increased by this feat and your Proficiency) or be moved 5 feet toward or away from you.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Telepathic",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Telepathic Utterance**：You can speak telepathically to any creature you can see within 60 feet of yourself. Your telepathic utterances are in a language you know, and the creature understands you only if it knows that language. Your communication doesn't give the creature the ability to respond to you telepathically.\n**Detect Thoughts**：You always have the Detect Thoughts spell prepared. You can cast it without a spell slot or spell components, and you must finish a Long Rest before you can cast it in this way again. You can also cast it using spell slots you have of the appropriate level. Your spellcasting ability for the spell is the ability increased by this feat.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Thrown Weapon Fighting",
+    "prerequisite": "",
+    "description": "When you hit with a ranged attack roll using a weapon that has the T property, you gain a +2 bonus to the damage roll.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Tough",
+    "prerequisite": "",
+    "description": "Your hit point maximum increases by an amount equal to twice your level when you gain this feat. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Tough",
+    "prerequisite": "",
+    "description": "Your Hit Points maximum increases by an amount equal to twice your character level when you gain this feat. Whenever you gain a character level thereafter, your Hit Points maximum increases by an additional 2 Hit Points.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Two-Weapon Fighting",
+    "prerequisite": "",
+    "description": "When you make an extra attack as a result of using a weapon that has the L property, you can add your ability modifier to the damage of that attack if you aren't already adding it to the damage.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Unarmed Fighting",
+    "prerequisite": "",
+    "description": "When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.\nAt the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "War Caster",
+    "prerequisite": "能够施法",
+    "description": "You have practiced casting spells in the midst of combat, learning techniques that grant you the following benefits:\n• You have advantage on Constitution saving throws that you make to maintain your concentration on a spell when you take damage.\n• You can perform the somatic components of spells even when you have weapons or a shield in one or both hands.\n• When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction to cast a spell at the creature, rather than making an opportunity attack. The spell must have a casting time of 1 action and must target only that creature.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "War Caster",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Concentration**：You have Advantage on Constitution saving throws that you make to maintain Concentration.\n**Reactive Spell**：When a creature provokes an Opportunity Attack from you by leaving your reach, you can take a Reaction to cast a spell at the creature rather than making an Opportunity Attack. The spell must have a casting time of one action and must target only that creature.\n**Somatic Components**：You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.",
+    "source": "XPHB"
+  },
+  {
+    "name_en": "Weapon Master",
+    "prerequisite": "",
+    "description": "You have practiced extensively with a variety of weapons, gaining the following benefits:\n• You gain proficiency with four weapons of your choice. Each one must be a simple or a martial weapon.",
+    "source": "PHB"
+  },
+  {
+    "name_en": "Weapon Master",
+    "prerequisite": "",
+    "description": "You gain the following benefits.\n**Mastery Property**：Your training with weapons allows you to use the mastery property of one kind of Simple or Martial weapon of your choice, provided you have proficiency with it. Whenever you finish a Long Rest, you can change the kind of weapon to another eligible kind.",
+    "source": "XPHB"
+  }
+]

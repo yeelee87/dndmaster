@@ -1,0 +1,81 @@
+{
+  "name_en": "Evil Mage",
+  "name_cn": "邪恶法师",
+  "is_npc": false,
+  "is_named": false,
+  "size": "中型",
+  "type": "类人生物",
+  "tags": [
+    "human"
+  ],
+  "alignment": "守序 邪恶",
+  "ac": "12",
+  "hp": "22 (5d8)",
+  "speed": "行走 30尺",
+  "abilities": {
+    "力量": 9,
+    "敏捷": 14,
+    "体质": 11,
+    "智力": 17,
+    "感知": 12,
+    "魅力": 11
+  },
+  "saves": [
+    "INT +5",
+    "WIS +3"
+  ],
+  "skills": [
+    "Arcana +5",
+    "History +5"
+  ],
+  "resistances": [],
+  "immunities": [],
+  "vulnerabilities": [],
+  "condition_immunities": [],
+  "senses": [],
+  "passive_perception": 11,
+  "languages": [
+    "Common",
+    "Draconic",
+    "Dwarvish",
+    "Elvish"
+  ],
+  "cr": "1",
+  "traits": [],
+  "actions": [
+    {
+      "name": "Quarterstaff",
+      "description": "{@atk mw} {@hit 1} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d8 - 1}) bludgeoning damage."
+    }
+  ],
+  "spellcasting": [
+    {
+      "name": "Spellcasting",
+      "header": "The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save {@dc 13}; {@hit 5} to hit with spell attacks). The mage knows the following spells from the wizard's spell list:",
+      "spells": {
+        "0": {
+          "spells": [
+            "{@spell light}",
+            "{@spell mage hand}",
+            "{@spell shocking grasp}"
+          ]
+        },
+        "1": {
+          "slots": 4,
+          "spells": [
+            "{@spell charm person}",
+            "{@spell magic missile}"
+          ]
+        },
+        "2": {
+          "slots": 3,
+          "spells": [
+            "{@spell hold person}",
+            "{@spell misty step}"
+          ]
+        }
+      }
+    }
+  ],
+  "source": "LMoP"
+}

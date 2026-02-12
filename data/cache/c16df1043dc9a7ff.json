@@ -1,0 +1,21 @@
+{
+  "name_en": "Orc",
+  "name_cn": "兽人",
+  "size": "中型",
+  "type": "类人生物",
+  "ac": 13,
+  "hp": "15 (2d8 + 6)",
+  "speed": 30,
+  "abilities": {
+    "str": 16,
+    "dex": 12,
+    "con": 16,
+    "int": 7,
+    "wis": 11,
+    "cha": 10
+  },
+  "cr": "1/2",
+  "actions": "mw 5 to hit, reach 5 ft., one target. 命中：9 (1d12 + 3) slashing damage.\nmw,rw 5 to hit, reach 5 ft. or range 30/120 ft., one target. 命中：6 (1d6 + 3) piercing damage.",
+  "traits": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+  "source": "MM"
+}

@@ -1,0 +1,41 @@
+{
+  "version": "5etools-2024",
+  "categories": {
+    "conditions": {
+      "file": "core/rules/conditions.json",
+      "count": 15
+    },
+    "actions": {
+      "file": "core/rules/actions.json",
+      "count": 46
+    },
+    "spells": {
+      "file": "core/spells/spells.json",
+      "count": 557
+    },
+    "feats": {
+      "file": "core/characters/feats.json",
+      "count": 119
+    },
+    "races": {
+      "file": "core/characters/races.json",
+      "count": 158
+    },
+    "backgrounds": {
+      "file": "core/characters/backgrounds.json",
+      "count": 175
+    },
+    "classes": {
+      "file": "core/characters/classes.json",
+      "count": 42
+    },
+    "monsters": {
+      "file": "core/monsters/monsters.json",
+      "count": 4085
+    },
+    "items": {
+      "file": "core/items/items.json",
+      "count": 2451
+    }
+  }
+}

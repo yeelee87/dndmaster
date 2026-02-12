@@ -1,0 +1,15 @@
+{
+  "name_en": "Cure Wounds",
+  "name_cn": "",
+  "level": 1,
+  "school_en": "A",
+  "school_cn": "防护",
+  "cast_time": "1 action",
+  "range": "触及",
+  "components": "言语(V)，姿势(S)",
+  "duration": "立即",
+  "ritual": false,
+  "description": "A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier.",
+  "higher_level": "**Using a Higher-Level Spell Slot**：The healing increases by 2d8 for each spell slot level above 1.",
+  "source": "XPHB"
+}

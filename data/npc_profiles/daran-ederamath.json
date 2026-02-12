@@ -1,0 +1,47 @@
+{
+  "name": "达兰·艾德玛斯",
+  "name_en": "Daran Edermath",
+  "race": "半精灵",
+  "gender": "男性",
+  "occupation": "退休冒险者",
+  "location": "艾德玛斯果园，凡达林北边",
+  "personality": {
+    "traits": ["有经验", "警觉", "愿意帮助新手冒险者"],
+    "mannerisms": "会仔细观察玩家，评估他们的能力",
+    "voice": "老练的冒险者口吻，偶尔提及往事"
+  },
+  "background": "曾在龙海岸地区冒险，退休后在凡达林定居经营果园",
+  "knowledge": {
+    "knows": [
+      "老 Owl Well（古枭井）有挖掘痕迹",
+      "老 Owl Well 晚上有奇怪的光线",
+      "愿意支付报酬调查老 Owl Well",
+      "知道红标帮据点的位置（崔森德庄园）"
+    ],
+    "does_not_know": [
+      "老 Owl Well 是谁在挖掘",
+      "光线的具体来源",
+      "玻璃杖的真实身份",
+      "红标帮内部情况"
+    ]
+  },
+  "quests": [
+    {
+      "name": "调查老 Owl Well",
+      "reward": "50金币（可谈判）",
+      "details": "查明谁在挖掘和光线的来源"
+    }
+  ],
+  "dialogue_hooks": [
+    {
+      "trigger": "玩家是冒险者",
+      "response": "表现出兴趣，询问他们的背景"
+    },
+    {
+      "trigger": "玩家提到异常现象或需要帮助",
+      "response": "提及老 Owl Well的异常"
+    }
+  ],
+  "secrets": [],
+  "notes": "达兰是连接玩家到支线任务（老 Owl Well）的关键NPC。他不会立即提及红标帮据点位置，除非玩家已经建立了信任或表明正在对抗红标帮。"
+}

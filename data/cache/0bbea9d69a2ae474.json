@@ -1,0 +1,21 @@
+{
+  "name_en": "Skeleton",
+  "name_cn": "Skeleton",
+  "size": "中型",
+  "type": "亡灵",
+  "ac": 13,
+  "hp": "13 (2d8 + 4)",
+  "speed": 30,
+  "abilities": {
+    "str": 10,
+    "dex": 14,
+    "con": 15,
+    "int": 6,
+    "wis": 8,
+    "cha": 5
+  },
+  "cr": "1/4",
+  "actions": "mw 4 to hit, reach 5 ft., one target. 命中：5 (1d6 + 2) piercing damage.\nrw 4 to hit, range 80/320 ft., one target. 命中：5 (1d6 + 2) piercing damage.",
+  "traits": "",
+  "source": "MM"
+}

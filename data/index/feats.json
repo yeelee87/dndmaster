@@ -1,0 +1,407 @@
+{
+  "ability score improvement": {
+    "name_en": "Ability Score Improvement",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "actor": {
+    "name_en": "Actor",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "alert": {
+    "name_en": "Alert",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "archery": {
+    "name_en": "Archery",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "athlete": {
+    "name_en": "Athlete",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "blessed warrior": {
+    "name_en": "Blessed Warrior",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "blind fighting": {
+    "name_en": "Blind Fighting",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of combat prowess": {
+    "name_en": "Boon of Combat Prowess",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of dimensional travel": {
+    "name_en": "Boon of Dimensional Travel",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of energy resistance": {
+    "name_en": "Boon of Energy Resistance",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of fate": {
+    "name_en": "Boon of Fate",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of fortitude": {
+    "name_en": "Boon of Fortitude",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of irresistible offense": {
+    "name_en": "Boon of Irresistible Offense",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of recovery": {
+    "name_en": "Boon of Recovery",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of skill": {
+    "name_en": "Boon of Skill",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of speed": {
+    "name_en": "Boon of Speed",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of spell recall": {
+    "name_en": "Boon of Spell Recall",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of the night spirit": {
+    "name_en": "Boon of the Night Spirit",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "boon of truesight": {
+    "name_en": "Boon of Truesight",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "charger": {
+    "name_en": "Charger",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "chef": {
+    "name_en": "Chef",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "crafter": {
+    "name_en": "Crafter",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "crossbow expert": {
+    "name_en": "Crossbow Expert",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "crusher": {
+    "name_en": "Crusher",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "defense": {
+    "name_en": "Defense",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "defensive duelist": {
+    "name_en": "Defensive Duelist",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "druidic warrior": {
+    "name_en": "Druidic Warrior",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "dual wielder": {
+    "name_en": "Dual Wielder",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "dueling": {
+    "name_en": "Dueling",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "dungeon delver": {
+    "name_en": "Dungeon Delver",
+    "name_cn": "",
+    "source": "PHB"
+  },
+  "durable": {
+    "name_en": "Durable",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "elemental adept": {
+    "name_en": "Elemental Adept",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "fey-touched": {
+    "name_en": "Fey-Touched",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "grappler": {
+    "name_en": "Grappler",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "great weapon fighting": {
+    "name_en": "Great Weapon Fighting",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "great weapon master": {
+    "name_en": "Great Weapon Master",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "healer": {
+    "name_en": "Healer",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "heavily armored": {
+    "name_en": "Heavily Armored",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "heavy armor master": {
+    "name_en": "Heavy Armor Master",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "inspiring leader": {
+    "name_en": "Inspiring Leader",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "interception": {
+    "name_en": "Interception",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "keen mind": {
+    "name_en": "Keen Mind",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "lightly armored": {
+    "name_en": "Lightly Armored",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "linguist": {
+    "name_en": "Linguist",
+    "name_cn": "",
+    "source": "PHB"
+  },
+  "lucky": {
+    "name_en": "Lucky",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "mage slayer": {
+    "name_en": "Mage Slayer",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "magic initiate": {
+    "name_en": "Magic Initiate",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "martial adept": {
+    "name_en": "Martial Adept",
+    "name_cn": "",
+    "source": "PHB"
+  },
+  "martial weapon training": {
+    "name_en": "Martial Weapon Training",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "medium armor master": {
+    "name_en": "Medium Armor Master",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "mobile": {
+    "name_en": "Mobile",
+    "name_cn": "",
+    "source": "PHB"
+  },
+  "moderately armored": {
+    "name_en": "Moderately Armored",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "mounted combatant": {
+    "name_en": "Mounted Combatant",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "musician": {
+    "name_en": "Musician",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "observant": {
+    "name_en": "Observant",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "piercer": {
+    "name_en": "Piercer",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "poisoner": {
+    "name_en": "Poisoner",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "polearm master": {
+    "name_en": "Polearm Master",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "protection": {
+    "name_en": "Protection",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "resilient": {
+    "name_en": "Resilient",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "ritual caster": {
+    "name_en": "Ritual Caster",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "savage attacker": {
+    "name_en": "Savage Attacker",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "sentinel": {
+    "name_en": "Sentinel",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "shadow-touched": {
+    "name_en": "Shadow-Touched",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "sharpshooter": {
+    "name_en": "Sharpshooter",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "shield master": {
+    "name_en": "Shield Master",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "skill expert": {
+    "name_en": "Skill Expert",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "skilled": {
+    "name_en": "Skilled",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "skulker": {
+    "name_en": "Skulker",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "slasher": {
+    "name_en": "Slasher",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "speedy": {
+    "name_en": "Speedy",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "spell sniper": {
+    "name_en": "Spell Sniper",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "tavern brawler": {
+    "name_en": "Tavern Brawler",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "telekinetic": {
+    "name_en": "Telekinetic",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "telepathic": {
+    "name_en": "Telepathic",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "thrown weapon fighting": {
+    "name_en": "Thrown Weapon Fighting",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "tough": {
+    "name_en": "Tough",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "two-weapon fighting": {
+    "name_en": "Two-Weapon Fighting",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "unarmed fighting": {
+    "name_en": "Unarmed Fighting",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "war caster": {
+    "name_en": "War Caster",
+    "name_cn": "",
+    "source": "XPHB"
+  },
+  "weapon master": {
+    "name_en": "Weapon Master",
+    "name_cn": "",
+    "source": "XPHB"
+  }
+}

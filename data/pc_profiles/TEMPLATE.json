@@ -1,0 +1,68 @@
+{
+  "name": "角色名称",
+  "race": "种族",
+  "class": "职业",
+  "level": 1,
+  "background": "背景",
+  "alignment": "阵营",
+  "ability_scores": {
+    "strength": 10,
+    "dexterity": 10,
+    "constitution": 10,
+    "intelligence": 10,
+    "wisdom": 10,
+    "charisma": 10
+  },
+  "skills": [],
+  "proficiencies": {
+    "armor": [],
+    "weapons": [],
+    "tools": [],
+    "saving_throws": []
+  },
+  "equipment": [],
+  "features": [],
+  "spells": {
+    "cantrips": [],
+    "level_1": [],
+    "level_2": [],
+    "level_3": []
+  },
+  "hp": {
+    "max": 10,
+    "current": 10,
+    "temp": 0
+  },
+  "ac": 10,
+  "initiative": 0,
+  "speed": 30,
+  "hit_dice": "1d8",
+  "death_saves": {
+    "successes": 0,
+    "failures": 0
+  },
+  "inventory": [],
+  "gold": {
+    "cp": 0,
+    "sp": 0,
+    "ep": 0,
+    "gp": 0,
+    "pp": 0
+  },
+  "personality": {
+    "traits": "",
+    "ideals": "",
+    "bonds": "",
+    "flaws": ""
+  },
+  "appearance": {
+    "age": 0,
+    "height": "",
+    "weight": "",
+    "eyes": "",
+    "skin": "",
+    "hair": ""
+  },
+  "backstory": "",
+  "notes": ""
+}

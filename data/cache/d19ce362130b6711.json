@@ -1,0 +1,15 @@
+{
+  "name_en": "Magic Missile",
+  "name_cn": "",
+  "level": 1,
+  "school_en": "V",
+  "school_cn": "塑能",
+  "cast_time": "1 action",
+  "range": "120 feet",
+  "components": "言语(V)，姿势(S)",
+  "duration": "立即",
+  "ritual": false,
+  "description": "You create three glowing darts of magical force. Each dart strikes a creature of your choice that you can see within range. A dart deals 1d4 + 1 Force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.",
+  "higher_level": "**Using a Higher-Level Spell Slot**：The spell creates one more dart for each spell slot level above 1.",
+  "source": "XPHB"
+}

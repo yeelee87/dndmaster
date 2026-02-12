@@ -1,0 +1,92 @@
+{
+  "blinded": {
+    "name_en": "Blinded",
+    "name_cn": "\u76ee\u76f2",
+    "source": "XPHB",
+    "page": 361
+  },
+  "charmed": {
+    "name_en": "Charmed",
+    "name_cn": "\u9b45\u60d1",
+    "source": "XPHB",
+    "page": 361
+  },
+  "deafened": {
+    "name_en": "Deafened",
+    "name_cn": "\u8033\u804b",
+    "source": "XPHB",
+    "page": 365
+  },
+  "exhaustion": {
+    "name_en": "Exhaustion",
+    "name_cn": "\u529b\u7aed",
+    "source": "XPHB",
+    "page": 365
+  },
+  "frightened": {
+    "name_en": "Frightened",
+    "name_cn": "\u6050\u614c",
+    "source": "XPHB",
+    "page": 367
+  },
+  "grappled": {
+    "name_en": "Grappled",
+    "name_cn": "\u88ab\u64d2\u62b1",
+    "source": "XPHB",
+    "page": 367
+  },
+  "incapacitated": {
+    "name_en": "Incapacitated",
+    "name_cn": "\u5931\u80fd",
+    "source": "XPHB",
+    "page": 369
+  },
+  "invisible": {
+    "name_en": "Invisible",
+    "name_cn": "\u9690\u5f62",
+    "source": "XPHB",
+    "page": 370
+  },
+  "paralyzed": {
+    "name_en": "Paralyzed",
+    "name_cn": "\u9ebb\u75f9",
+    "source": "XPHB",
+    "page": 371
+  },
+  "petrified": {
+    "name_en": "Petrified",
+    "name_cn": "\u77f3\u5316",
+    "source": "XPHB",
+    "page": 372
+  },
+  "poisoned": {
+    "name_en": "Poisoned",
+    "name_cn": "\u4e2d\u6bd2",
+    "source": "XPHB",
+    "page": 372
+  },
+  "prone": {
+    "name_en": "Prone",
+    "name_cn": "\u5012\u5730",
+    "source": "XPHB",
+    "page": 372
+  },
+  "restrained": {
+    "name_en": "Restrained",
+    "name_cn": "\u675f\u7f1a",
+    "source": "XPHB",
+    "page": 373
+  },
+  "stunned": {
+    "name_en": "Stunned",
+    "name_cn": "\u9707\u6151",
+    "source": "XPHB",
+    "page": 376
+  },
+  "unconscious": {
+    "name_en": "Unconscious",
+    "name_cn": "\u660f\u8ff7",
+    "source": "XPHB",
+    "page": 376
+  }
+}

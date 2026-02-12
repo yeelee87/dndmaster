@@ -1,0 +1,50 @@
+{
+  "name_en": "Redbrand Ruffian",
+  "name_cn": "Redbrand Ruffian",
+  "is_npc": false,
+  "is_named": false,
+  "size": "中型",
+  "type": "类人生物",
+  "tags": [
+    "human"
+  ],
+  "alignment": "中立 邪恶",
+  "ac": "14",
+  "hp": "16 (3d8 + 3)",
+  "speed": "行走 30尺",
+  "abilities": {
+    "力量": 11,
+    "敏捷": 14,
+    "体质": 12,
+    "智力": 9,
+    "感知": 9,
+    "魅力": 11
+  },
+  "saves": [],
+  "skills": [
+    "Intimidation +2"
+  ],
+  "resistances": [],
+  "immunities": [],
+  "vulnerabilities": [],
+  "condition_immunities": [],
+  "senses": [],
+  "passive_perception": 9,
+  "languages": [
+    "Common"
+  ],
+  "cr": "1/2",
+  "traits": [],
+  "actions": [
+    {
+      "name": "Multiattack",
+      "description": "The ruffian makes two melee attacks."
+    },
+    {
+      "name": "Shortsword",
+      "description": "{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+    }
+  ],
+  "spellcasting": [],
+  "source": "LMoP"
+}

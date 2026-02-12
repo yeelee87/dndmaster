@@ -1,0 +1,2360 @@
+{
+  "acid splash": {
+    "name_en": "Acid Splash",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "aid": {
+    "name_en": "Aid",
+    "level": 2,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "alarm": {
+    "name_en": "Alarm",
+    "level": 1,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "alter self": {
+    "name_en": "Alter Self",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "animal friendship": {
+    "name_en": "Animal Friendship",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "animal messenger": {
+    "name_en": "Animal Messenger",
+    "level": 2,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "animal shapes": {
+    "name_en": "Animal Shapes",
+    "level": 8,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "animate dead": {
+    "name_en": "Animate Dead",
+    "level": 3,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "animate objects": {
+    "name_en": "Animate Objects",
+    "level": 5,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "antilife shell": {
+    "name_en": "Antilife Shell",
+    "level": 5,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "antimagic field": {
+    "name_en": "Antimagic Field",
+    "level": 8,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "antipathy/sympathy": {
+    "name_en": "Antipathy/Sympathy",
+    "level": 8,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "arcane eye": {
+    "name_en": "Arcane Eye",
+    "level": 4,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "arcane gate": {
+    "name_en": "Arcane Gate",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "arcane lock": {
+    "name_en": "Arcane Lock",
+    "level": 2,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "armor of agathys": {
+    "name_en": "Armor of Agathys",
+    "level": 1,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "arms of hadar": {
+    "name_en": "Arms of Hadar",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "astral projection": {
+    "name_en": "Astral Projection",
+    "level": 9,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "augury": {
+    "name_en": "Augury",
+    "level": 2,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "aura of life": {
+    "name_en": "Aura of Life",
+    "level": 4,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "aura of purity": {
+    "name_en": "Aura of Purity",
+    "level": 4,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "aura of vitality": {
+    "name_en": "Aura of Vitality",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "awaken": {
+    "name_en": "Awaken",
+    "level": 5,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "bane": {
+    "name_en": "Bane",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "banishing smite": {
+    "name_en": "Banishing Smite",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "banishment": {
+    "name_en": "Banishment",
+    "level": 4,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "barkskin": {
+    "name_en": "Barkskin",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "beacon of hope": {
+    "name_en": "Beacon of Hope",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "beast sense": {
+    "name_en": "Beast Sense",
+    "level": 2,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "bestow curse": {
+    "name_en": "Bestow Curse",
+    "level": 3,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "bigby's hand": {
+    "name_en": "Bigby's Hand",
+    "level": 5,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "blade barrier": {
+    "name_en": "Blade Barrier",
+    "level": 6,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "blade ward": {
+    "name_en": "Blade Ward",
+    "level": 0,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "bless": {
+    "name_en": "Bless",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "blight": {
+    "name_en": "Blight",
+    "level": 4,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "blinding smite": {
+    "name_en": "Blinding Smite",
+    "level": 3,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "blindness/deafness": {
+    "name_en": "Blindness/Deafness",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "blink": {
+    "name_en": "Blink",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "blur": {
+    "name_en": "Blur",
+    "level": 2,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "branding smite": {
+    "name_en": "Branding Smite",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "burning hands": {
+    "name_en": "Burning Hands",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "call lightning": {
+    "name_en": "Call Lightning",
+    "level": 3,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "calm emotions": {
+    "name_en": "Calm Emotions",
+    "level": 2,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "chain lightning": {
+    "name_en": "Chain Lightning",
+    "level": 6,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "charm person": {
+    "name_en": "Charm Person",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "chill touch": {
+    "name_en": "Chill Touch",
+    "level": 0,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "chromatic orb": {
+    "name_en": "Chromatic Orb",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "circle of death": {
+    "name_en": "Circle of Death",
+    "level": 6,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "circle of power": {
+    "name_en": "Circle of Power",
+    "level": 5,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "clairvoyance": {
+    "name_en": "Clairvoyance",
+    "level": 3,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "clone": {
+    "name_en": "Clone",
+    "level": 8,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "cloud of daggers": {
+    "name_en": "Cloud of Daggers",
+    "level": 2,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "cloudkill": {
+    "name_en": "Cloudkill",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "color spray": {
+    "name_en": "Color Spray",
+    "level": 1,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "command": {
+    "name_en": "Command",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "commune": {
+    "name_en": "Commune",
+    "level": 5,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "commune with nature": {
+    "name_en": "Commune with Nature",
+    "level": 5,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "compelled duel": {
+    "name_en": "Compelled Duel",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "comprehend languages": {
+    "name_en": "Comprehend Languages",
+    "level": 1,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "compulsion": {
+    "name_en": "Compulsion",
+    "level": 4,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "cone of cold": {
+    "name_en": "Cone of Cold",
+    "level": 5,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "confusion": {
+    "name_en": "Confusion",
+    "level": 4,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "conjure animals": {
+    "name_en": "Conjure Animals",
+    "level": 3,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "conjure barrage": {
+    "name_en": "Conjure Barrage",
+    "level": 3,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "conjure celestial": {
+    "name_en": "Conjure Celestial",
+    "level": 7,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "conjure elemental": {
+    "name_en": "Conjure Elemental",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "conjure fey": {
+    "name_en": "Conjure Fey",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "conjure minor elementals": {
+    "name_en": "Conjure Minor Elementals",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "conjure volley": {
+    "name_en": "Conjure Volley",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "conjure woodland beings": {
+    "name_en": "Conjure Woodland Beings",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "contact other plane": {
+    "name_en": "Contact Other Plane",
+    "level": 5,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "contagion": {
+    "name_en": "Contagion",
+    "level": 5,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "contingency": {
+    "name_en": "Contingency",
+    "level": 6,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "continual flame": {
+    "name_en": "Continual Flame",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "control water": {
+    "name_en": "Control Water",
+    "level": 4,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "control weather": {
+    "name_en": "Control Weather",
+    "level": 8,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "cordon of arrows": {
+    "name_en": "Cordon of Arrows",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "counterspell": {
+    "name_en": "Counterspell",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "create food and water": {
+    "name_en": "Create Food and Water",
+    "level": 3,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "create or destroy water": {
+    "name_en": "Create or Destroy Water",
+    "level": 1,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "create undead": {
+    "name_en": "Create Undead",
+    "level": 6,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "creation": {
+    "name_en": "Creation",
+    "level": 5,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "crown of madness": {
+    "name_en": "Crown of Madness",
+    "level": 2,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "crusader's mantle": {
+    "name_en": "Crusader's Mantle",
+    "level": 3,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "cure wounds": {
+    "name_en": "Cure Wounds",
+    "level": 1,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "dancing lights": {
+    "name_en": "Dancing Lights",
+    "level": 0,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "darkness": {
+    "name_en": "Darkness",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "darkvision": {
+    "name_en": "Darkvision",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "daylight": {
+    "name_en": "Daylight",
+    "level": 3,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "death ward": {
+    "name_en": "Death Ward",
+    "level": 4,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "delayed blast fireball": {
+    "name_en": "Delayed Blast Fireball",
+    "level": 7,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "demiplane": {
+    "name_en": "Demiplane",
+    "level": 8,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "destructive wave": {
+    "name_en": "Destructive Wave",
+    "level": 5,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "detect evil and good": {
+    "name_en": "Detect Evil and Good",
+    "level": 1,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "detect magic": {
+    "name_en": "Detect Magic",
+    "level": 1,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "detect poison and disease": {
+    "name_en": "Detect Poison and Disease",
+    "level": 1,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "detect thoughts": {
+    "name_en": "Detect Thoughts",
+    "level": 2,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "dimension door": {
+    "name_en": "Dimension Door",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "disguise self": {
+    "name_en": "Disguise Self",
+    "level": 1,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "disintegrate": {
+    "name_en": "Disintegrate",
+    "level": 6,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "dispel evil and good": {
+    "name_en": "Dispel Evil and Good",
+    "level": 5,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "dispel magic": {
+    "name_en": "Dispel Magic",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "dissonant whispers": {
+    "name_en": "Dissonant Whispers",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "divination": {
+    "name_en": "Divination",
+    "level": 4,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "divine favor": {
+    "name_en": "Divine Favor",
+    "level": 1,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "divine word": {
+    "name_en": "Divine Word",
+    "level": 7,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "dominate beast": {
+    "name_en": "Dominate Beast",
+    "level": 4,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "dominate monster": {
+    "name_en": "Dominate Monster",
+    "level": 8,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "dominate person": {
+    "name_en": "Dominate Person",
+    "level": 5,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "drawmij's instant summons": {
+    "name_en": "Drawmij's Instant Summons",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "dream": {
+    "name_en": "Dream",
+    "level": 5,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "druidcraft": {
+    "name_en": "Druidcraft",
+    "level": 0,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "earthquake": {
+    "name_en": "Earthquake",
+    "level": 8,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "eldritch blast": {
+    "name_en": "Eldritch Blast",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "elemental weapon": {
+    "name_en": "Elemental Weapon",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "enhance ability": {
+    "name_en": "Enhance Ability",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "enlarge/reduce": {
+    "name_en": "Enlarge/Reduce",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "ensnaring strike": {
+    "name_en": "Ensnaring Strike",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "entangle": {
+    "name_en": "Entangle",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "enthrall": {
+    "name_en": "Enthrall",
+    "level": 2,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "etherealness": {
+    "name_en": "Etherealness",
+    "level": 7,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "evard's black tentacles": {
+    "name_en": "Evard's Black Tentacles",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "expeditious retreat": {
+    "name_en": "Expeditious Retreat",
+    "level": 1,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "eyebite": {
+    "name_en": "Eyebite",
+    "level": 6,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "fabricate": {
+    "name_en": "Fabricate",
+    "level": 4,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "faerie fire": {
+    "name_en": "Faerie Fire",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "false life": {
+    "name_en": "False Life",
+    "level": 1,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "fear": {
+    "name_en": "Fear",
+    "level": 3,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "feather fall": {
+    "name_en": "Feather Fall",
+    "level": 1,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "feeblemind": {
+    "name_en": "Feeblemind",
+    "level": 8,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "feign death": {
+    "name_en": "Feign Death",
+    "level": 3,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "find familiar": {
+    "name_en": "Find Familiar",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "find steed": {
+    "name_en": "Find Steed",
+    "level": 2,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "find the path": {
+    "name_en": "Find the Path",
+    "level": 6,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "find traps": {
+    "name_en": "Find Traps",
+    "level": 2,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "finger of death": {
+    "name_en": "Finger of Death",
+    "level": 7,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "fire bolt": {
+    "name_en": "Fire Bolt",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "fire shield": {
+    "name_en": "Fire Shield",
+    "level": 4,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "fire storm": {
+    "name_en": "Fire Storm",
+    "level": 7,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "fireball": {
+    "name_en": "Fireball",
+    "level": 3,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "flame blade": {
+    "name_en": "Flame Blade",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "flame strike": {
+    "name_en": "Flame Strike",
+    "level": 5,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "flaming sphere": {
+    "name_en": "Flaming Sphere",
+    "level": 2,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "flesh to stone": {
+    "name_en": "Flesh to Stone",
+    "level": 6,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "fly": {
+    "name_en": "Fly",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "fog cloud": {
+    "name_en": "Fog Cloud",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "forbiddance": {
+    "name_en": "Forbiddance",
+    "level": 6,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "forcecage": {
+    "name_en": "Forcecage",
+    "level": 7,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "foresight": {
+    "name_en": "Foresight",
+    "level": 9,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "freedom of movement": {
+    "name_en": "Freedom of Movement",
+    "level": 4,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "friends": {
+    "name_en": "Friends",
+    "level": 0,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "gaseous form": {
+    "name_en": "Gaseous Form",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "gate": {
+    "name_en": "Gate",
+    "level": 9,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "geas": {
+    "name_en": "Geas",
+    "level": 5,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "gentle repose": {
+    "name_en": "Gentle Repose",
+    "level": 2,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "giant insect": {
+    "name_en": "Giant Insect",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "glibness": {
+    "name_en": "Glibness",
+    "level": 8,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "globe of invulnerability": {
+    "name_en": "Globe of Invulnerability",
+    "level": 6,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "glyph of warding": {
+    "name_en": "Glyph of Warding",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "goodberry": {
+    "name_en": "Goodberry",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "grasping vine": {
+    "name_en": "Grasping Vine",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "grease": {
+    "name_en": "Grease",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "greater invisibility": {
+    "name_en": "Greater Invisibility",
+    "level": 4,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "greater restoration": {
+    "name_en": "Greater Restoration",
+    "level": 5,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "guardian of faith": {
+    "name_en": "Guardian of Faith",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "guards and wards": {
+    "name_en": "Guards and Wards",
+    "level": 6,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "guidance": {
+    "name_en": "Guidance",
+    "level": 0,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "guiding bolt": {
+    "name_en": "Guiding Bolt",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "gust of wind": {
+    "name_en": "Gust of Wind",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "hail of thorns": {
+    "name_en": "Hail of Thorns",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "hallow": {
+    "name_en": "Hallow",
+    "level": 5,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "hallucinatory terrain": {
+    "name_en": "Hallucinatory Terrain",
+    "level": 4,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "harm": {
+    "name_en": "Harm",
+    "level": 6,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "haste": {
+    "name_en": "Haste",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "heal": {
+    "name_en": "Heal",
+    "level": 6,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "healing word": {
+    "name_en": "Healing Word",
+    "level": 1,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "heat metal": {
+    "name_en": "Heat Metal",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "hellish rebuke": {
+    "name_en": "Hellish Rebuke",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "heroes' feast": {
+    "name_en": "Heroes' Feast",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "heroism": {
+    "name_en": "Heroism",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "hex": {
+    "name_en": "Hex",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "hold monster": {
+    "name_en": "Hold Monster",
+    "level": 5,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "hold person": {
+    "name_en": "Hold Person",
+    "level": 2,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "holy aura": {
+    "name_en": "Holy Aura",
+    "level": 8,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "hunger of hadar": {
+    "name_en": "Hunger of Hadar",
+    "level": 3,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "hunter's mark": {
+    "name_en": "Hunter's Mark",
+    "level": 1,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "hypnotic pattern": {
+    "name_en": "Hypnotic Pattern",
+    "level": 3,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "ice storm": {
+    "name_en": "Ice Storm",
+    "level": 4,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "identify": {
+    "name_en": "Identify",
+    "level": 1,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "illusory script": {
+    "name_en": "Illusory Script",
+    "level": 1,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "imprisonment": {
+    "name_en": "Imprisonment",
+    "level": 9,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "incendiary cloud": {
+    "name_en": "Incendiary Cloud",
+    "level": 8,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "inflict wounds": {
+    "name_en": "Inflict Wounds",
+    "level": 1,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "insect plague": {
+    "name_en": "Insect Plague",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "invisibility": {
+    "name_en": "Invisibility",
+    "level": 2,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "jump": {
+    "name_en": "Jump",
+    "level": 1,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "knock": {
+    "name_en": "Knock",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "legend lore": {
+    "name_en": "Legend Lore",
+    "level": 5,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "leomund's secret chest": {
+    "name_en": "Leomund's Secret Chest",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "leomund's tiny hut": {
+    "name_en": "Leomund's Tiny Hut",
+    "level": 3,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "lesser restoration": {
+    "name_en": "Lesser Restoration",
+    "level": 2,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "levitate": {
+    "name_en": "Levitate",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "light": {
+    "name_en": "Light",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "lightning arrow": {
+    "name_en": "Lightning Arrow",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "lightning bolt": {
+    "name_en": "Lightning Bolt",
+    "level": 3,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "locate animals or plants": {
+    "name_en": "Locate Animals or Plants",
+    "level": 2,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "locate creature": {
+    "name_en": "Locate Creature",
+    "level": 4,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "locate object": {
+    "name_en": "Locate Object",
+    "level": 2,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "longstrider": {
+    "name_en": "Longstrider",
+    "level": 1,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "mage armor": {
+    "name_en": "Mage Armor",
+    "level": 1,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "mage hand": {
+    "name_en": "Mage Hand",
+    "level": 0,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "magic circle": {
+    "name_en": "Magic Circle",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "magic jar": {
+    "name_en": "Magic Jar",
+    "level": 6,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "magic missile": {
+    "name_en": "Magic Missile",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "magic mouth": {
+    "name_en": "Magic Mouth",
+    "level": 2,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "magic weapon": {
+    "name_en": "Magic Weapon",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "major image": {
+    "name_en": "Major Image",
+    "level": 3,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "mass cure wounds": {
+    "name_en": "Mass Cure Wounds",
+    "level": 5,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "mass heal": {
+    "name_en": "Mass Heal",
+    "level": 9,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "mass healing word": {
+    "name_en": "Mass Healing Word",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "mass suggestion": {
+    "name_en": "Mass Suggestion",
+    "level": 6,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "maze": {
+    "name_en": "Maze",
+    "level": 8,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "meld into stone": {
+    "name_en": "Meld into Stone",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "melf's acid arrow": {
+    "name_en": "Melf's Acid Arrow",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "mending": {
+    "name_en": "Mending",
+    "level": 0,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "message": {
+    "name_en": "Message",
+    "level": 0,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "meteor swarm": {
+    "name_en": "Meteor Swarm",
+    "level": 9,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "mind blank": {
+    "name_en": "Mind Blank",
+    "level": 8,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "minor illusion": {
+    "name_en": "Minor Illusion",
+    "level": 0,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "mirage arcane": {
+    "name_en": "Mirage Arcane",
+    "level": 7,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "mirror image": {
+    "name_en": "Mirror Image",
+    "level": 2,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "mislead": {
+    "name_en": "Mislead",
+    "level": 5,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "misty step": {
+    "name_en": "Misty Step",
+    "level": 2,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "modify memory": {
+    "name_en": "Modify Memory",
+    "level": 5,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "moonbeam": {
+    "name_en": "Moonbeam",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "mordenkainen's faithful hound": {
+    "name_en": "Mordenkainen's Faithful Hound",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "mordenkainen's magnificent mansion": {
+    "name_en": "Mordenkainen's Magnificent Mansion",
+    "level": 7,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "mordenkainen's private sanctum": {
+    "name_en": "Mordenkainen's Private Sanctum",
+    "level": 4,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "mordenkainen's sword": {
+    "name_en": "Mordenkainen's Sword",
+    "level": 7,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "move earth": {
+    "name_en": "Move Earth",
+    "level": 6,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "nondetection": {
+    "name_en": "Nondetection",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "nystul's magic aura": {
+    "name_en": "Nystul's Magic Aura",
+    "level": 2,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "otiluke's freezing sphere": {
+    "name_en": "Otiluke's Freezing Sphere",
+    "level": 6,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "otiluke's resilient sphere": {
+    "name_en": "Otiluke's Resilient Sphere",
+    "level": 4,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "otto's irresistible dance": {
+    "name_en": "Otto's Irresistible Dance",
+    "level": 6,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "pass without trace": {
+    "name_en": "Pass without Trace",
+    "level": 2,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "passwall": {
+    "name_en": "Passwall",
+    "level": 5,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "phantasmal force": {
+    "name_en": "Phantasmal Force",
+    "level": 2,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "phantasmal killer": {
+    "name_en": "Phantasmal Killer",
+    "level": 4,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "phantom steed": {
+    "name_en": "Phantom Steed",
+    "level": 3,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "planar ally": {
+    "name_en": "Planar Ally",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "planar binding": {
+    "name_en": "Planar Binding",
+    "level": 5,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "plane shift": {
+    "name_en": "Plane Shift",
+    "level": 7,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "plant growth": {
+    "name_en": "Plant Growth",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "poison spray": {
+    "name_en": "Poison Spray",
+    "level": 0,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "polymorph": {
+    "name_en": "Polymorph",
+    "level": 4,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "power word heal": {
+    "name_en": "Power Word Heal",
+    "level": 9,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "power word kill": {
+    "name_en": "Power Word Kill",
+    "level": 9,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "power word stun": {
+    "name_en": "Power Word Stun",
+    "level": 8,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "prayer of healing": {
+    "name_en": "Prayer of Healing",
+    "level": 2,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "prestidigitation": {
+    "name_en": "Prestidigitation",
+    "level": 0,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "prismatic spray": {
+    "name_en": "Prismatic Spray",
+    "level": 7,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "prismatic wall": {
+    "name_en": "Prismatic Wall",
+    "level": 9,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "produce flame": {
+    "name_en": "Produce Flame",
+    "level": 0,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "programmed illusion": {
+    "name_en": "Programmed Illusion",
+    "level": 6,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "project image": {
+    "name_en": "Project Image",
+    "level": 7,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "protection from energy": {
+    "name_en": "Protection from Energy",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "protection from evil and good": {
+    "name_en": "Protection from Evil and Good",
+    "level": 1,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "protection from poison": {
+    "name_en": "Protection from Poison",
+    "level": 2,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "purify food and drink": {
+    "name_en": "Purify Food and Drink",
+    "level": 1,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "raise dead": {
+    "name_en": "Raise Dead",
+    "level": 5,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "rary's telepathic bond": {
+    "name_en": "Rary's Telepathic Bond",
+    "level": 5,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "ray of enfeeblement": {
+    "name_en": "Ray of Enfeeblement",
+    "level": 2,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "ray of frost": {
+    "name_en": "Ray of Frost",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "ray of sickness": {
+    "name_en": "Ray of Sickness",
+    "level": 1,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "regenerate": {
+    "name_en": "Regenerate",
+    "level": 7,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "reincarnate": {
+    "name_en": "Reincarnate",
+    "level": 5,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "remove curse": {
+    "name_en": "Remove Curse",
+    "level": 3,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "resistance": {
+    "name_en": "Resistance",
+    "level": 0,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "resurrection": {
+    "name_en": "Resurrection",
+    "level": 7,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "reverse gravity": {
+    "name_en": "Reverse Gravity",
+    "level": 7,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "revivify": {
+    "name_en": "Revivify",
+    "level": 3,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "rope trick": {
+    "name_en": "Rope Trick",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "sacred flame": {
+    "name_en": "Sacred Flame",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "sanctuary": {
+    "name_en": "Sanctuary",
+    "level": 1,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "scorching ray": {
+    "name_en": "Scorching Ray",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "scrying": {
+    "name_en": "Scrying",
+    "level": 5,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "searing smite": {
+    "name_en": "Searing Smite",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "see invisibility": {
+    "name_en": "See Invisibility",
+    "level": 2,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "seeming": {
+    "name_en": "Seeming",
+    "level": 5,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "sending": {
+    "name_en": "Sending",
+    "level": 3,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "sequester": {
+    "name_en": "Sequester",
+    "level": 7,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "shapechange": {
+    "name_en": "Shapechange",
+    "level": 9,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "shatter": {
+    "name_en": "Shatter",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "shield": {
+    "name_en": "Shield",
+    "level": 1,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "shield of faith": {
+    "name_en": "Shield of Faith",
+    "level": 1,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "shillelagh": {
+    "name_en": "Shillelagh",
+    "level": 0,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "shocking grasp": {
+    "name_en": "Shocking Grasp",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "silence": {
+    "name_en": "Silence",
+    "level": 2,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "silent image": {
+    "name_en": "Silent Image",
+    "level": 1,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "simulacrum": {
+    "name_en": "Simulacrum",
+    "level": 7,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "sleep": {
+    "name_en": "Sleep",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "sleet storm": {
+    "name_en": "Sleet Storm",
+    "level": 3,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "slow": {
+    "name_en": "Slow",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "spare the dying": {
+    "name_en": "Spare the Dying",
+    "level": 0,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "speak with animals": {
+    "name_en": "Speak with Animals",
+    "level": 1,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "speak with dead": {
+    "name_en": "Speak with Dead",
+    "level": 3,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "speak with plants": {
+    "name_en": "Speak with Plants",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "spider climb": {
+    "name_en": "Spider Climb",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "spike growth": {
+    "name_en": "Spike Growth",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "spirit guardians": {
+    "name_en": "Spirit Guardians",
+    "level": 3,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "spiritual weapon": {
+    "name_en": "Spiritual Weapon",
+    "level": 2,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "staggering smite": {
+    "name_en": "Staggering Smite",
+    "level": 4,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "stinking cloud": {
+    "name_en": "Stinking Cloud",
+    "level": 3,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "stone shape": {
+    "name_en": "Stone Shape",
+    "level": 4,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "stoneskin": {
+    "name_en": "Stoneskin",
+    "level": 4,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "storm of vengeance": {
+    "name_en": "Storm of Vengeance",
+    "level": 9,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "suggestion": {
+    "name_en": "Suggestion",
+    "level": 2,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "sunbeam": {
+    "name_en": "Sunbeam",
+    "level": 6,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "sunburst": {
+    "name_en": "Sunburst",
+    "level": 8,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "swift quiver": {
+    "name_en": "Swift Quiver",
+    "level": 5,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "symbol": {
+    "name_en": "Symbol",
+    "level": 7,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "tasha's hideous laughter": {
+    "name_en": "Tasha's Hideous Laughter",
+    "level": 1,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "telekinesis": {
+    "name_en": "Telekinesis",
+    "level": 5,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "telepathy": {
+    "name_en": "Telepathy",
+    "level": 8,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "teleport": {
+    "name_en": "Teleport",
+    "level": 7,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "teleportation circle": {
+    "name_en": "Teleportation Circle",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "tenser's floating disk": {
+    "name_en": "Tenser's Floating Disk",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "thaumaturgy": {
+    "name_en": "Thaumaturgy",
+    "level": 0,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "thorn whip": {
+    "name_en": "Thorn Whip",
+    "level": 0,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "thunderous smite": {
+    "name_en": "Thunderous Smite",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "thunderwave": {
+    "name_en": "Thunderwave",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "time stop": {
+    "name_en": "Time Stop",
+    "level": 9,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "tongues": {
+    "name_en": "Tongues",
+    "level": 3,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "transport via plants": {
+    "name_en": "Transport via Plants",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "tree stride": {
+    "name_en": "Tree Stride",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "true polymorph": {
+    "name_en": "True Polymorph",
+    "level": 9,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "true resurrection": {
+    "name_en": "True Resurrection",
+    "level": 9,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "true seeing": {
+    "name_en": "True Seeing",
+    "level": 6,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "true strike": {
+    "name_en": "True Strike",
+    "level": 0,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "tsunami": {
+    "name_en": "Tsunami",
+    "level": 8,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "unseen servant": {
+    "name_en": "Unseen Servant",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "vampiric touch": {
+    "name_en": "Vampiric Touch",
+    "level": 3,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "vicious mockery": {
+    "name_en": "Vicious Mockery",
+    "level": 0,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "wall of fire": {
+    "name_en": "Wall of Fire",
+    "level": 4,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "wall of force": {
+    "name_en": "Wall of Force",
+    "level": 5,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "wall of ice": {
+    "name_en": "Wall of Ice",
+    "level": 6,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "wall of stone": {
+    "name_en": "Wall of Stone",
+    "level": 5,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "wall of thorns": {
+    "name_en": "Wall of Thorns",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "warding bond": {
+    "name_en": "Warding Bond",
+    "level": 2,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "water breathing": {
+    "name_en": "Water Breathing",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "water walk": {
+    "name_en": "Water Walk",
+    "level": 3,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "web": {
+    "name_en": "Web",
+    "level": 2,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "weird": {
+    "name_en": "Weird",
+    "level": 9,
+    "school": "\u5e7b\u672f",
+    "file": "spells-phb.json"
+  },
+  "wind walk": {
+    "name_en": "Wind Walk",
+    "level": 6,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "wind wall": {
+    "name_en": "Wind Wall",
+    "level": 3,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "wish": {
+    "name_en": "Wish",
+    "level": 9,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "witch bolt": {
+    "name_en": "Witch Bolt",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "word of recall": {
+    "name_en": "Word of Recall",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "wrathful smite": {
+    "name_en": "Wrathful Smite",
+    "level": 1,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "zone of truth": {
+    "name_en": "Zone of Truth",
+    "level": 2,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "arcane vigor": {
+    "name_en": "Arcane Vigor",
+    "level": 2,
+    "school": "\u9632\u62a4",
+    "file": "spells-phb.json"
+  },
+  "befuddlement": {
+    "name_en": "Befuddlement",
+    "level": 8,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "charm monster": {
+    "name_en": "Charm Monster",
+    "level": 4,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "divine smite": {
+    "name_en": "Divine Smite",
+    "level": 1,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "dragon's breath": {
+    "name_en": "Dragon's Breath",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "elementalism": {
+    "name_en": "Elementalism",
+    "level": 0,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "fount of moonlight": {
+    "name_en": "Fount of Moonlight",
+    "level": 4,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "ice knife": {
+    "name_en": "Ice Knife",
+    "level": 1,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "jallarzi's storm of radiance": {
+    "name_en": "Jallarzi's Storm of Radiance",
+    "level": 5,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "mind sliver": {
+    "name_en": "Mind Sliver",
+    "level": 0,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "mind spike": {
+    "name_en": "Mind Spike",
+    "level": 2,
+    "school": "\u9884\u8a00",
+    "file": "spells-phb.json"
+  },
+  "power word fortify": {
+    "name_en": "Power Word Fortify",
+    "level": 7,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "shining smite": {
+    "name_en": "Shining Smite",
+    "level": 2,
+    "school": "\u53d8\u5316",
+    "file": "spells-phb.json"
+  },
+  "sorcerous burst": {
+    "name_en": "Sorcerous Burst",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "starry wisp": {
+    "name_en": "Starry Wisp",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "steel wind strike": {
+    "name_en": "Steel Wind Strike",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "summon aberration": {
+    "name_en": "Summon Aberration",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "summon beast": {
+    "name_en": "Summon Beast",
+    "level": 2,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "summon celestial": {
+    "name_en": "Summon Celestial",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "summon construct": {
+    "name_en": "Summon Construct",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "summon dragon": {
+    "name_en": "Summon Dragon",
+    "level": 5,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "summon elemental": {
+    "name_en": "Summon Elemental",
+    "level": 4,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "summon fey": {
+    "name_en": "Summon Fey",
+    "level": 3,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "summon fiend": {
+    "name_en": "Summon Fiend",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "summon undead": {
+    "name_en": "Summon Undead",
+    "level": 3,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "synaptic static": {
+    "name_en": "Synaptic Static",
+    "level": 5,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  },
+  "tasha's bubbling cauldron": {
+    "name_en": "Tasha's Bubbling Cauldron",
+    "level": 6,
+    "school": "\u53ec\u5524",
+    "file": "spells-phb.json"
+  },
+  "thunderclap": {
+    "name_en": "Thunderclap",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "toll the dead": {
+    "name_en": "Toll the Dead",
+    "level": 0,
+    "school": "\u6b7b\u7075",
+    "file": "spells-phb.json"
+  },
+  "vitriolic sphere": {
+    "name_en": "Vitriolic Sphere",
+    "level": 4,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "word of radiance": {
+    "name_en": "Word of Radiance",
+    "level": 0,
+    "school": "\u5851\u80fd",
+    "file": "spells-phb.json"
+  },
+  "yolande's regal presence": {
+    "name_en": "Yolande's Regal Presence",
+    "level": 5,
+    "school": "\u60d1\u63a7",
+    "file": "spells-phb.json"
+  }
+}

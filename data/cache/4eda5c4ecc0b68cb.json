@@ -1,0 +1,21 @@
+{
+  "name_en": "Zombie",
+  "name_cn": "Zombie",
+  "size": "中型",
+  "type": "亡灵",
+  "ac": 8,
+  "hp": "22 (3d8 + 9)",
+  "speed": 20,
+  "abilities": {
+    "str": 13,
+    "dex": 6,
+    "con": 16,
+    "int": 3,
+    "wis": 6,
+    "cha": 5
+  },
+  "cr": "1/4",
+  "actions": "mw 3 to hit, reach 5 ft., one target. 命中：4 (1d6 + 1) bludgeoning damage.",
+  "traits": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+  "source": "MM"
+}

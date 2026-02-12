@@ -1,0 +1,535 @@
+[
+  {
+    "name_en": "Ash Zombie",
+    "name_cn": "Ash Zombie",
+    "is_npc": false,
+    "is_named": false,
+    "size": "中型",
+    "type": "亡灵",
+    "tags": [],
+    "alignment": "中立 邪恶",
+    "ac": "8",
+    "hp": "22 (3d8 + 9)",
+    "speed": "行走 20尺",
+    "abilities": {
+      "力量": 13,
+      "敏捷": 6,
+      "体质": 16,
+      "智力": 3,
+      "感知": 6,
+      "魅力": 5
+    },
+    "saves": [
+      "WIS +0"
+    ],
+    "skills": [],
+    "resistances": [],
+    "immunities": [
+      "poison"
+    ],
+    "vulnerabilities": [],
+    "condition_immunities": [
+      "poisoned"
+    ],
+    "senses": [
+      "darkvision 60 ft."
+    ],
+    "passive_perception": 8,
+    "languages": [
+      "understands all languages it spoke in life but can't speak"
+    ],
+    "cr": "1/4",
+    "traits": [
+      {
+        "name": "Undead Fortitude",
+        "description": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead."
+      },
+      {
+        "name": "Ash Puff",
+        "description": "The first time the zombie takes damage, any living creature within 5 feet of the zombie must succeed on a {@dc 10} Constitution saving throw or gain disadvantage on attack rolls, saving throws, and ability checks for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on it early with a successful save."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Slam",
+        "description": "{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}4 ({@damage 1d6 + 1}) bludgeoning damage."
+      }
+    ],
+    "spellcasting": [],
+    "source": "LMoP"
+  },
+  {
+    "name_en": "Evil Mage",
+    "name_cn": "邪恶法师",
+    "is_npc": false,
+    "is_named": false,
+    "size": "中型",
+    "type": "类人生物",
+    "tags": [
+      "human"
+    ],
+    "alignment": "守序 邪恶",
+    "ac": "12",
+    "hp": "22 (5d8)",
+    "speed": "行走 30尺",
+    "abilities": {
+      "力量": 9,
+      "敏捷": 14,
+      "体质": 11,
+      "智力": 17,
+      "感知": 12,
+      "魅力": 11
+    },
+    "saves": [
+      "INT +5",
+      "WIS +3"
+    ],
+    "skills": [
+      "Arcana +5",
+      "History +5"
+    ],
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": [],
+    "condition_immunities": [],
+    "senses": [],
+    "passive_perception": 11,
+    "languages": [
+      "Common",
+      "Draconic",
+      "Dwarvish",
+      "Elvish"
+    ],
+    "cr": "1",
+    "traits": [],
+    "actions": [
+      {
+        "name": "Quarterstaff",
+        "description": "{@atk mw} {@hit 1} to hit, reach 5 ft., one target. {@h}3 ({@damage 1d8 - 1}) bludgeoning damage."
+      }
+    ],
+    "spellcasting": [
+      {
+        "name": "Spellcasting",
+        "header": "The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save {@dc 13}; {@hit 5} to hit with spell attacks). The mage knows the following spells from the wizard's spell list:",
+        "spells": {
+          "0": {
+            "spells": [
+              "{@spell light}",
+              "{@spell mage hand}",
+              "{@spell shocking grasp}"
+            ]
+          },
+          "1": {
+            "slots": 4,
+            "spells": [
+              "{@spell charm person}",
+              "{@spell magic missile}"
+            ]
+          },
+          "2": {
+            "slots": 3,
+            "spells": [
+              "{@spell hold person}",
+              "{@spell misty step}"
+            ]
+          }
+        }
+      }
+    ],
+    "source": "LMoP"
+  },
+  {
+    "name_en": "Gundren Rockseeker",
+    "name_cn": "冈德伦·寻石者",
+    "is_npc": true,
+    "is_named": true,
+    "size": "中型",
+    "type": "",
+    "tags": [],
+    "alignment": "无阵营",
+    "ac": "",
+    "hp": "0 ()",
+    "speed": "行走 30尺",
+    "abilities": {
+      "力量": 10,
+      "敏捷": 10,
+      "体质": 10,
+      "智力": 10,
+      "感知": 10,
+      "魅力": 10
+    },
+    "saves": [],
+    "skills": [],
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": [],
+    "condition_immunities": [],
+    "senses": [],
+    "passive_perception": 10,
+    "languages": [],
+    "cr": "0",
+    "traits": [],
+    "actions": [],
+    "spellcasting": [],
+    "source": "LMoP"
+  },
+  {
+    "name_en": "Mormesk the Wraith",
+    "name_cn": "幽灵莫梅斯克",
+    "is_npc": true,
+    "is_named": true,
+    "size": "中型",
+    "type": "亡灵",
+    "tags": [],
+    "alignment": "中立 邪恶",
+    "ac": "13",
+    "hp": "45 (6d8 + 18)",
+    "speed": "行走 0尺，飞行 60尺",
+    "abilities": {
+      "力量": 6,
+      "敏捷": 16,
+      "体质": 16,
+      "智力": 12,
+      "感知": 14,
+      "魅力": 15
+    },
+    "saves": [],
+    "skills": [],
+    "resistances": [
+      "acid",
+      "cold",
+      "fire",
+      "lightning",
+      "thunder",
+      {
+        "resist": [
+          "bludgeoning",
+          "piercing",
+          "slashing"
+        ],
+        "note": "from nonmagical attacks that aren't silvered",
+        "cond": true
+      }
+    ],
+    "immunities": [
+      "necrotic",
+      "poison"
+    ],
+    "vulnerabilities": [],
+    "condition_immunities": [
+      "charmed",
+      "grappled",
+      "paralyzed",
+      "petrified",
+      "poisoned",
+      "prone",
+      "restrained"
+    ],
+    "senses": [
+      "darkvision 60 ft."
+    ],
+    "passive_perception": 12,
+    "languages": [
+      "Common",
+      "Infernal"
+    ],
+    "cr": "3",
+    "traits": [
+      {
+        "name": "Incorporeal Movement",
+        "description": "The wraith can move through an object or another creature, but can't stop there."
+      },
+      {
+        "name": "Sunlight Sensitivity",
+        "description": "While in sunlight, the wraith has disadvantage on attack rolls and on Wisdom ({@skill Perception}) checks that rely on sight."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Life Drain",
+        "description": "{@atk mw} {@hit 5} to hit, reach 5 ft., one creature. {@h}16 ({@damage 3d8 + 3}) necrotic damage, and the target must succeed on a {@dc 13} Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. If this attack reduces the target's hit point maximum to 0, the target dies. This reduction to the target's hit point maximum lasts until the target finishes a long rest."
+      }
+    ],
+    "spellcasting": [],
+    "source": "LMoP"
+  },
+  {
+    "name_en": "Nezznar the Black Spider",
+    "name_cn": "黑蜘蛛涅兹纳尔",
+    "is_npc": true,
+    "is_named": true,
+    "size": "中型",
+    "type": "类人生物",
+    "tags": [
+      "elf"
+    ],
+    "alignment": "中立 邪恶",
+    "ac": "11",
+    "hp": "27 (6d8)",
+    "speed": "行走 30尺",
+    "abilities": {
+      "力量": 9,
+      "敏捷": 13,
+      "体质": 10,
+      "智力": 16,
+      "感知": 14,
+      "魅力": 13
+    },
+    "saves": [
+      "INT +5",
+      "WIS +4"
+    ],
+    "skills": [
+      "Arcana +5",
+      "Perception +4",
+      "Stealth +3"
+    ],
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": [],
+    "condition_immunities": [],
+    "senses": [
+      "darkvision 120 ft."
+    ],
+    "passive_perception": 14,
+    "languages": [
+      "Elvish",
+      "Undercommon"
+    ],
+    "cr": "2",
+    "traits": [
+      {
+        "name": "Special Equipment",
+        "description": "Nezznar has a {@item spider staff|LMoP}."
+      },
+      {
+        "name": "Fey Ancestry",
+        "description": "Nezznar has advantage on saving throws against being {@condition charmed}, and magic can't put him to sleep."
+      },
+      {
+        "name": "Sunlight Sensitivity",
+        "description": "Nezznar has disadvantage on attack rolls when he or his target is in sunlight."
+      }
+    ],
+    "actions": [
+      {
+        "name": "Spider Staff",
+        "description": "{@atk mw} {@hit 1} to hit, reach 5 ft., one target. {@h}2 ({@damage 1d6 - 1}) bludgeoning damage plus 3 ({@damage 1d6}) poison damage."
+      }
+    ],
+    "spellcasting": [
+      {
+        "name": "Innate Spellcasting",
+        "header": "Nezznar can innately cast the following spells, requiring no material components:",
+        "spells": {}
+      },
+      {
+        "name": "Spellcasting",
+        "header": "Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save {@dc 13}; {@hit 5} to hit with spell attacks). Nezznar has the following spells prepared from the wizard's spell list:",
+        "spells": {
+          "0": {
+            "spells": [
+              "{@spell mage hand}",
+              "{@spell ray of frost}",
+              "{@spell shocking grasp}"
+            ]
+          },
+          "1": {
+            "slots": 4,
+            "spells": [
+              "{@spell mage armor}",
+              "{@spell magic missile}",
+              "{@spell shield}"
+            ]
+          },
+          "2": {
+            "slots": 3,
+            "spells": [
+              "{@spell invisibility}",
+              "{@spell suggestion}"
+            ]
+          }
+        }
+      }
+    ],
+    "source": "LMoP"
+  },
+  {
+    "name_en": "Nundro Rockseeker",
+    "name_cn": "Nundro Rockseeker",
+    "is_npc": true,
+    "is_named": true,
+    "size": "中型",
+    "type": "",
+    "tags": [],
+    "alignment": "无阵营",
+    "ac": "",
+    "hp": "0 ()",
+    "speed": "行走 30尺",
+    "abilities": {
+      "力量": 10,
+      "敏捷": 10,
+      "体质": 10,
+      "智力": 10,
+      "感知": 10,
+      "魅力": 10
+    },
+    "saves": [],
+    "skills": [],
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": [],
+    "condition_immunities": [],
+    "senses": [],
+    "passive_perception": 10,
+    "languages": [],
+    "cr": "0",
+    "traits": [],
+    "actions": [],
+    "spellcasting": [],
+    "source": "LMoP"
+  },
+  {
+    "name_en": "Redbrand Ruffian",
+    "name_cn": "Redbrand Ruffian",
+    "is_npc": false,
+    "is_named": false,
+    "size": "中型",
+    "type": "类人生物",
+    "tags": [
+      "human"
+    ],
+    "alignment": "中立 邪恶",
+    "ac": "14",
+    "hp": "16 (3d8 + 3)",
+    "speed": "行走 30尺",
+    "abilities": {
+      "力量": 11,
+      "敏捷": 14,
+      "体质": 12,
+      "智力": 9,
+      "感知": 9,
+      "魅力": 11
+    },
+    "saves": [],
+    "skills": [
+      "Intimidation +2"
+    ],
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": [],
+    "condition_immunities": [],
+    "senses": [],
+    "passive_perception": 9,
+    "languages": [
+      "Common"
+    ],
+    "cr": "1/2",
+    "traits": [],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "description": "The ruffian makes two melee attacks."
+      },
+      {
+        "name": "Shortsword",
+        "description": "{@atk mw} {@hit 4} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d6 + 2}) piercing damage."
+      }
+    ],
+    "spellcasting": [],
+    "source": "LMoP"
+  },
+  {
+    "name_en": "Sildar Hallwinter",
+    "name_cn": "西尔达·哈尔温特",
+    "is_npc": true,
+    "is_named": true,
+    "size": "中型",
+    "type": "类人生物",
+    "tags": [
+      "human"
+    ],
+    "alignment": "中立 善良",
+    "ac": "16",
+    "hp": "27 (5d8 + 5)",
+    "speed": "行走 30尺",
+    "abilities": {
+      "力量": 13,
+      "敏捷": 10,
+      "体质": 12,
+      "智力": 10,
+      "感知": 11,
+      "魅力": 10
+    },
+    "saves": [
+      "STR +3",
+      "CON +3"
+    ],
+    "skills": [
+      "Perception +2"
+    ],
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": [],
+    "condition_immunities": [],
+    "senses": [],
+    "passive_perception": 12,
+    "languages": [
+      "Common"
+    ],
+    "cr": "1",
+    "traits": [],
+    "actions": [
+      {
+        "name": "Multiattack",
+        "description": "Sildar makes two melee attacks."
+      },
+      {
+        "name": "Longsword",
+        "description": "{@atk mw} {@hit 3} to hit, reach 5 ft., one target. {@h}5 ({@damage 1d8 + 1}) slashing damage."
+      },
+      {
+        "name": "Heavy Crossbow",
+        "description": "{@atk rw} {@hit 2} to hit, range 100/400 ft., one target. {@h}5 ({@damage 1d10}) piercing damage."
+      }
+    ],
+    "spellcasting": [],
+    "source": "LMoP"
+  },
+  {
+    "name_en": "Venomfang",
+    "name_cn": "毒牙",
+    "is_npc": true,
+    "is_named": true,
+    "size": "中型",
+    "type": "",
+    "tags": [],
+    "alignment": "无阵营",
+    "ac": "",
+    "hp": "0 ()",
+    "speed": "行走 30尺",
+    "abilities": {
+      "力量": 10,
+      "敏捷": 10,
+      "体质": 10,
+      "智力": 10,
+      "感知": 10,
+      "魅力": 10
+    },
+    "saves": [],
+    "skills": [],
+    "resistances": [],
+    "immunities": [],
+    "vulnerabilities": [],
+    "condition_immunities": [],
+    "senses": [],
+    "passive_perception": 10,
+    "languages": [],
+    "cr": "0",
+    "traits": [],
+    "actions": [],
+    "spellcasting": [],
+    "source": "LMoP"
+  }
+]
