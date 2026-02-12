@@ -1,14 +1,1 @@
-## D&D 5e Game Master Skill for OpenClaw
-专业的龙与地下城第五版跑团助手。
-### 功能特性
-- ✅ 严格遵守 D&D 5e 2014 规则（PHB/MM/DMG）
-- ✅ 凡戴尔的失落矿坑（LMOP）完整模组支持
-- ✅ 自动身份切换（DM/怪物/NPC/PC）
-- ✅ 战斗系统（透明计算）
-- ✅ 人物卡解析（JSON/Excel）
-- ✅ 怪物/法术数据查询
-- ✅ 信息层级管理（防剧透）
-### 安装
-```bash
-cd ~/.openclaw/skills
-unzip dndmaster-v1.0.0.zip -d dnd-game-master
+
